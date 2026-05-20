@@ -1,0 +1,1001 @@
+account_id,account_name,industry,account_owner,account_rating,campaign_id,created_ts,source_system
+SFACC5642,Patel Foods,Manufacturing,Arjun Dubey,Cold,CAMP003,20-09-2024 00:00,Salesforce
+SFACC5512,Tiwari Technologies,Retail,Vikas Verma,Warm,CAMP021,13-04-2024 00:00,Salesforce
+SFACC5636,Kapoor Textiles,Healthcare,Karan Banerjee,Warm,CAMP018,10-11-2024 00:00,Salesforce
+SFACC5829,Agarwal Enterprises,Healthcare,Neha Gupta,Warm,CAMP021,07-08-2024 00:00,Salesforce
+SFACC5063,Bajaj Pharmaceuticals,Manufacturing,Ramesh Nair,Hot,CAMP048,24-06-2025 00:00,Salesforce
+SFACC5489,Banerjee Finance,Financial Services,Sneha Rao,Warm,CAMP031,24-04-2024 00:00,Salesforce
+SFACC5231,Tiwari Textiles,Transportation,Vinay Chopra,Warm,CAMP048,04-02-2024 00:00,Salesforce
+SFACC5069,Joshi Pharmaceuticals,Financial Services,Ajay Desai,Cold,CAMP041,04-07-2024 00:00,Salesforce
+SFACC5162,Bajaj Industries,Manufacturing,Deepak Joshi,Warm,CAMP038,22-03-2024 00:00,Salesforce
+SFACC5341,Gupta Logistics,Manufacturing,Meena Kapoor,Warm,CAMP026,15-04-2024 00:00,Salesforce
+SFACC5199,Kumar Industries,Transportation,Deepak Mishra,Cold,CAMP017,09-10-2025 00:00,Salesforce
+SFACC5565,Sharma Traders,Technology,Rekha Malhotra,Cold,CAMP011,29-11-2024 00:00,Salesforce
+SFACC5656,Singh Consulting,Financial Services,Suresh Mehta,Cold,CAMP047,22-02-2026 00:00,Salesforce
+SFACC5822,Menon Healthcare,Financial Services,Rajiv Patil,Cold,CAMP032,27-05-2025 00:00,Salesforce
+SFACC5132,Bajaj Consulting,Financial Services,Meera Singh,Cold,CAMP021,10-05-2025 00:00,Salesforce
+SFACC5460,Malhotra Retail,Retail,Suresh Menon,Hot,CAMP033,10-07-2024 00:00,Salesforce
+SFACC5938,Agarwal Consulting,Transportation,Amit Kaur,Warm,CAMP028,04-01-2025 00:00,Salesforce
+SFACC5471,Malhotra Solutions,Retail,Rahul Tiwari,Cold,CAMP002,21-03-2025 00:00,Salesforce
+SFACC5416,Guptha Technologies,Technology,Alok Rao,Cold,CAMP032,14-05-2024 00:00,Salesforce
+SFACC5158,Dubey Enterprises,Financial Services,Divya Malhotra,Cold,CAMP001,16-12-2024 00:00,Salesforce
+SFACC5593,Dubey Textiles,Transportation,Rajiv Chopra,Cold,CAMP044,07-03-2026 00:00,Salesforce
+SFACC5134,Iyer Pharmaceuticals,Transportation,Lakshmi Menon,Hot,CAMP049,25-03-2024 00:00,Salesforce
+SFACC5561,Banerjee Healthcare,Transportation,Suresh Iyer,Hot,CAMP022,25-04-2024 00:00,Salesforce
+SFACC5084,Nair Pharmaceuticals,Retail,Arjun Patil,Cold,CAMP005,26-10-2024 00:00,Salesforce
+SFACC5939,Srivastava Logistics,Financial Services,Vinod Patel,Cold,CAMP003,21-06-2024 00:00,Salesforce
+SFACC5714,Desai Textiles,Healthcare,Arjun Menon,Hot,CAMP007,14-06-2025 00:00,Salesforce
+SFACC5899,Reddy Logistics,Manufacturing,Kavita Kumar,Warm,CAMP025,23-02-2024 00:00,Salesforce
+SFACC5333,Banerjee Foods,Retail,Lakshmi Menon,Hot,CAMP005,27-06-2024 00:00,Salesforce
+SFACC5009,Joshi Solutions,Retail,Arjun Guptha,Hot,CAMP045,26-08-2024 00:00,Salesforce
+SFACC5627,Gupta Finance,Retail,Kavita Pandey,Cold,CAMP025,19-11-2024 00:00,Salesforce
+SFACC5153,Banerjee Pharmaceuticals,Financial Services,Anjali Rao,Warm,CAMP022,12-01-2025 00:00,Salesforce
+SFACC5116,Joshi Healthcare,Financial Services,Rohit Nair,Warm,CAMP024,08-10-2025 00:00,Salesforce
+SFACC5638,Bajaj Healthcare,Financial Services,Rajiv Agarwal,Hot,CAMP003,02-11-2024 00:00,Salesforce
+SFACC5165,Yadav Logistics,Technology,John Patil,Cold,CAMP028,19-09-2024 00:00,Salesforce
+SFACC5298,Srivastava Traders,Healthcare,Ramesh Bajaj,Hot,CAMP030,07-06-2024 00:00,Salesforce
+SFACC5911,Sharma Foods,Manufacturing,Jane Menon,Cold,CAMP024,21-10-2025 00:00,Salesforce
+SFACC5921,Mishra Retail,Manufacturing,Sanjay Iyer,Hot,CAMP016,08-01-2024 00:00,Salesforce
+SFACC5678,Rao Finance,Technology,Rahul Srivastava,Cold,CAMP047,25-07-2024 00:00,Salesforce
+SFACC5804,Joshi Services,Healthcare,Arvind Iyer,Hot,CAMP020,05-03-2024 00:00,Salesforce
+SFACC5406,Iyer Consulting,Retail,Meera Pandey,Cold,CAMP043,23-02-2024 00:00,Salesforce
+SFACC5572,Kapoor Foods,Manufacturing,Arjun Mishra,Warm,CAMP023,08-02-2026 00:00,Salesforce
+SFACC5321,Desai Logistics,Retail,Divya Srivastava,Hot,CAMP032,31-03-2026 00:00,Salesforce
+SFACC5068,Srivastava Textiles,Technology,Manish Agarwal,Cold,CAMP005,29-05-2025 00:00,Salesforce
+SFACC5723,Pandey Enterprises,Retail,Sunita Pandey,Hot,CAMP033,03-08-2024 00:00,Salesforce
+SFACC5919,Kumar Industries,Manufacturing,Sunil Desai,Cold,CAMP038,20-02-2024 00:00,Salesforce
+SFACC5727,Pandey Services,Retail,Shreya Desai,Hot,CAMP030,06-01-2026 00:00,Salesforce
+SFACC5017,Shah Retail,Healthcare,Arvind Sharma,Cold,CAMP015,01-09-2024 00:00,Salesforce
+SFACC5837,Iyer Retail,Technology,Manish Menon,Cold,CAMP033,01-03-2024 00:00,Salesforce
+SFACC5651,Mishra Finance,Healthcare,Arjun Gupta,Hot,CAMP013,17-01-2026 00:00,Salesforce
+SFACC5826,Desai Technologies,Technology,Pooja Patil,Cold,CAMP038,24-05-2024 00:00,Salesforce
+SFACC5136,Sharma Healthcare,Healthcare,Arjun Reddy,Hot,CAMP030,15-09-2024 00:00,Salesforce
+SFACC5592,Shah Consulting,Financial Services,Meera Kaur,Hot,CAMP022,26-06-2025 00:00,Salesforce
+SFACC5133,Iyer Foods,Healthcare,Divya Yadav,Cold,CAMP003,15-07-2024 00:00,Salesforce
+SFACC5093,Mehta Consulting,Transportation,Pooja Singh,Warm,CAMP049,16-07-2024 00:00,Salesforce
+SFACC5687,Pandey Services,Transportation,Meena Singh,Warm,CAMP034,25-11-2024 00:00,Salesforce
+SFACC5235,Banerjee Logistics,Technology,Ravi Reddy,Hot,CAMP018,26-11-2025 00:00,Salesforce
+SFACC5556,Nair Services,Transportation,Anjali Iyer,Cold,CAMP023,27-04-2025 00:00,Salesforce
+SFACC5013,Gupta Healthcare,Technology,Amit Yadav,Cold,CAMP036,27-12-2025 00:00,Salesforce
+SFACC5510,Mehta Solutions,Manufacturing,Deepak Pandey,Warm,CAMP032,13-09-2024 00:00,Salesforce
+SFACC5943,Desai Retail,Financial Services,Rahul Srivastava,Hot,CAMP026,11-08-2024 00:00,Salesforce
+SFACC5539,Shah Services,Financial Services,Rajiv Verma,Cold,CAMP014,08-07-2024 00:00,Salesforce
+SFACC5737,Malhotra Foods,Healthcare,Ramesh Patil,Cold,CAMP010,03-05-2025 00:00,Salesforce
+SFACC5699,Gupta Textiles,Financial Services,Ravi Kumar,Warm,CAMP020,13-08-2024 00:00,Salesforce
+SFACC5617,Bajaj Traders,Technology,Sachin Menon,Hot,CAMP047,29-04-2024 00:00,Salesforce
+SFACC5555,Pandey Pharmaceuticals,Retail,Ajay Gupta,Hot,CAMP002,04-02-2024 00:00,Salesforce
+SFACC5813,Nair Textiles,Technology,Priya Patel,Warm,CAMP006,09-10-2024 00:00,Salesforce
+SFACC5537,Joshi Healthcare,Technology,Pooja Yadav,Warm,CAMP037,24-11-2025 00:00,Salesforce
+SFACC5115,Pandey Solutions,Technology,Ravi Srivastava,Cold,CAMP027,19-01-2024 00:00,Salesforce
+SFACC5945,Mishra Healthcare,Manufacturing,Jane Kumar,Cold,CAMP013,19-12-2024 00:00,Salesforce
+SFACC5190,Malhotra Finance,Transportation,Lakshmi Joshi,Cold,CAMP032,10-02-2024 00:00,Salesforce
+SFACC5045,Patel Pharmaceuticals,Retail,Vikas Kaur,Cold,CAMP023,03-12-2024 00:00,Salesforce
+SFACC5186,Kumar Traders,Transportation,Vinay Rao,Hot,CAMP047,15-10-2024 00:00,Salesforce
+SFACC5692,Sharma Enterprises,Retail,Ajay Mishra,Hot,CAMP039,08-12-2024 00:00,Salesforce
+SFACC5758,Chopra Solutions,Technology,Ramesh Patel,Hot,CAMP049,10-05-2024 00:00,Salesforce
+SFACC5573,Singh Traders,Retail,Ravi Desai,Cold,CAMP049,23-06-2024 00:00,Salesforce
+SFACC5749,Malhotra Logistics,Manufacturing,Prakash Banerjee,Hot,CAMP034,10-05-2024 00:00,Salesforce
+SFACC5057,Reddy Textiles,Healthcare,Manish Reddy,Cold,CAMP041,26-09-2025 00:00,Salesforce
+SFACC5126,Mishra Technologies,Technology,Vikas Rao,Cold,CAMP042,05-03-2026 00:00,Salesforce
+SFACC5459,Verma Traders,Manufacturing,Vinod Guptha,Hot,CAMP046,02-11-2024 00:00,Salesforce
+SFACC5601,Kumar Healthcare,Healthcare,Harish Nair,Cold,CAMP002,07-03-2024 00:00,Salesforce
+SFACC5875,Desai Traders,Healthcare,Kavita Mehta,Warm,CAMP020,22-01-2025 00:00,Salesforce
+SFACC5538,Rao Consulting,Financial Services,Deepak Patil,Warm,CAMP009,02-10-2025 00:00,Salesforce
+SFACC5432,Shah Textiles,Transportation,Jane Pandey,Cold,CAMP047,03-03-2026 00:00,Salesforce
+SFACC5833,Joshi Consulting,Technology,Sunita Nair,Cold,CAMP024,18-01-2026 00:00,Salesforce
+SFACC5427,Dubey Finance,Manufacturing,Vikas Joshi,Warm,CAMP032,08-01-2025 00:00,Salesforce
+SFACC5077,Dubey Traders,Manufacturing,Karan Desai,Cold,CAMP008,02-08-2025 00:00,Salesforce
+SFACC5101,Pandey Foods,Manufacturing,Seema Singh,Hot,CAMP024,03-01-2024 00:00,Salesforce
+SFACC5448,Patel Solutions,Financial Services,Neha Tiwari,Cold,CAMP040,09-02-2026 00:00,Salesforce
+SFACC5415,Tiwari Industries,Manufacturing,Karan Kaur,Hot,CAMP012,07-01-2024 00:00,Salesforce
+SFACC5896,Kapoor Consulting,Financial Services,Ajay Chopra,Cold,CAMP039,14-02-2026 00:00,Salesforce
+SFACC5877,Mehta Pharmaceuticals,Retail,Prakash Menon,Cold,CAMP004,02-05-2025 00:00,Salesforce
+SFACC5119,Yadav Solutions,Manufacturing,Ravi Iyer,Warm,CAMP015,02-07-2024 00:00,Salesforce
+SFACC5411,Menon Pharmaceuticals,Retail,Vinod Mehta,Hot,CAMP024,17-04-2024 00:00,Salesforce
+SFACC5372,Patil Enterprises,Manufacturing,Alok Rao,Warm,CAMP004,09-06-2025 00:00,Salesforce
+SFACC5244,Iyer Retail,Technology,Seema Mehta,Warm,CAMP011,31-05-2024 00:00,Salesforce
+SFACC5028,Singh Services,Manufacturing,Priya Sharma,Warm,CAMP048,17-08-2024 00:00,Salesforce
+SFACC5152,Kumar Industries,Technology,Shreya Menon,Cold,CAMP014,12-08-2024 00:00,Salesforce
+SFACC5639,Kaur Technologies,Healthcare,Rohit Banerjee,Cold,CAMP025,03-03-2025 00:00,Salesforce
+SFACC5920,Mishra Textiles,Healthcare,Ajay Banerjee,Hot,CAMP016,11-05-2025 00:00,Salesforce
+SFACC5620,Nair Foods,Technology,Arvind Guptha,Warm,CAMP047,25-08-2025 00:00,Salesforce
+SFACC5402,Iyer Foods,Healthcare,Anjali Mishra,Warm,CAMP050,05-05-2025 00:00,Salesforce
+SFACC5795,Singh Foods,Transportation,Kavita Patil,Warm,CAMP032,20-01-2025 00:00,Salesforce
+SFACC5229,Sharma Traders,Technology,Alok Malhotra,Warm,CAMP017,17-08-2025 00:00,Salesforce
+SFACC5039,Agarwal Consulting,Manufacturing,Sunil Joshi,Warm,CAMP023,27-04-2024 00:00,Salesforce
+SFACC5260,Nair Logistics,Transportation,Vinay Bajaj,Cold,CAMP016,29-06-2024 00:00,Salesforce
+SFACC5293,Pandey Enterprises,Manufacturing,Amit Gupta,Warm,CAMP001,13-07-2025 00:00,Salesforce
+SFACC5755,Tiwari Textiles,Healthcare,Lakshmi Joshi,Cold,CAMP029,29-11-2024 00:00,Salesforce
+SFACC5120,Guptha Traders,Retail,John Banerjee,Cold,CAMP036,13-07-2025 00:00,Salesforce
+SFACC5535,Joshi Traders,Healthcare,Sneha Kaur,Hot,CAMP027,18-09-2024 00:00,Salesforce
+SFACC5825,Mishra Retail,Transportation,Arjun Patel,Cold,CAMP018,08-09-2025 00:00,Salesforce
+SFACC5895,Pandey Retail,Technology,Vinod Kaur,Hot,CAMP018,17-11-2024 00:00,Salesforce
+SFACC5282,Malhotra Pharmaceuticals,Technology,Arjun Menon,Cold,CAMP006,11-03-2026 00:00,Salesforce
+SFACC5250,Tiwari Healthcare,Technology,Ajay Kapoor,Cold,CAMP038,07-08-2025 00:00,Salesforce
+SFACC5558,Yadav Pharmaceuticals,Healthcare,Alok Dubey,Hot,CAMP048,10-12-2025 00:00,Salesforce
+SFACC5721,Kapoor Solutions,Retail,Anjali Menon,Warm,CAMP044,20-02-2026 00:00,Salesforce
+SFACC5870,Gupta Industries,Retail,Anjali Bajaj,Cold,CAMP002,13-11-2024 00:00,Salesforce
+SFACC5752,Chopra Enterprises,Technology,Ravi Verma,Warm,CAMP012,01-07-2025 00:00,Salesforce
+SFACC5905,Sharma Finance,Financial Services,Shreya Malhotra,Warm,CAMP020,26-06-2025 00:00,Salesforce
+SFACC5674,Joshi Healthcare,Manufacturing,Sachin Kumar,Cold,CAMP004,14-04-2025 00:00,Salesforce
+SFACC5584,Patil Enterprises,Retail,Ravi Reddy,Warm,CAMP033,22-10-2025 00:00,Salesforce
+SFACC5405,Kaur Healthcare,Financial Services,Lakshmi Kaur,Hot,CAMP029,28-01-2025 00:00,Salesforce
+SFACC5385,Dubey Enterprises,Retail,Shalini Malhotra,Cold,CAMP003,25-07-2024 00:00,Salesforce
+SFACC5302,Guptha Services,Transportation,Deepak Srivastava,Cold,CAMP024,29-12-2024 00:00,Salesforce
+SFACC5648,Yadav Consulting,Technology,Kavita Bajaj,Warm,CAMP050,21-01-2025 00:00,Salesforce
+SFACC5916,Mehta Industries,Healthcare,Meera Dubey,Cold,CAMP047,31-01-2025 00:00,Salesforce
+SFACC5869,Yadav Enterprises,Retail,Vikas Desai,Cold,CAMP021,07-12-2025 00:00,Salesforce
+SFACC5394,Agarwal Technologies,Healthcare,Vikas Malhotra,Hot,CAMP043,23-03-2026 00:00,Salesforce
+SFACC5924,Iyer Enterprises,Technology,Ramesh Yadav,Cold,CAMP029,27-09-2024 00:00,Salesforce
+SFACC5202,Iyer Textiles,Transportation,Vinod Pandey,Warm,CAMP004,20-10-2024 00:00,Salesforce
+SFACC5902,Banerjee Logistics,Retail,Karan Tiwari,Cold,CAMP036,10-03-2024 00:00,Salesforce
+SFACC5226,Yadav Traders,Manufacturing,Rohit Iyer,Warm,CAMP047,02-01-2024 00:00,Salesforce
+SFACC5343,Patel Services,Transportation,Shreya Kaur,Hot,CAMP025,03-05-2025 00:00,Salesforce
+SFACC5757,Verma Retail,Technology,Arjun Patil,Hot,CAMP033,15-05-2025 00:00,Salesforce
+SFACC5275,Dubey Technologies,Financial Services,Alok Agarwal,Hot,CAMP036,06-02-2024 00:00,Salesforce
+SFACC5834,Verma Services,Retail,Rajiv Tiwari,Warm,CAMP048,24-10-2025 00:00,Salesforce
+SFACC5621,Yadav Textiles,Transportation,Meena Menon,Warm,CAMP040,14-06-2025 00:00,Salesforce
+SFACC5400,Kaur Industries,Transportation,Kavita Shah,Cold,CAMP023,29-09-2025 00:00,Salesforce
+SFACC5326,Tiwari Solutions,Healthcare,Sachin Singh,Cold,CAMP006,13-03-2025 00:00,Salesforce
+SFACC5845,Iyer Retail,Healthcare,Meena Kapoor,Warm,CAMP035,14-04-2024 00:00,Salesforce
+SFACC5790,Desai Services,Financial Services,Ramesh Gupta,Warm,CAMP039,17-01-2025 00:00,Salesforce
+SFACC5289,Patil Enterprises,Healthcare,Ajay Patil,Warm,CAMP012,08-07-2024 00:00,Salesforce
+SFACC5238,Mehta Retail,Transportation,Suresh Desai,Warm,CAMP040,03-09-2025 00:00,Salesforce
+SFACC5078,Kapoor Industries,Financial Services,Ravi Kumar,Hot,CAMP029,27-01-2024 00:00,Salesforce
+SFACC5139,Kumar Retail,Manufacturing,Shreya Guptha,Hot,CAMP046,27-12-2025 00:00,Salesforce
+SFACC5075,Singh Pharmaceuticals,Technology,Arvind Kaur,Warm,CAMP022,02-10-2024 00:00,Salesforce
+SFACC5606,Tiwari Finance,Manufacturing,Karan Srivastava,Hot,CAMP006,12-04-2025 00:00,Salesforce
+SFACC5129,Reddy Services,Transportation,Ravi Malhotra,Cold,CAMP046,13-02-2024 00:00,Salesforce
+SFACC5159,Menon Foods,Healthcare,Rohit Sharma,Warm,CAMP011,21-06-2025 00:00,Salesforce
+SFACC5802,Rao Solutions,Transportation,Rekha Verma,Hot,CAMP014,18-02-2025 00:00,Salesforce
+SFACC5603,Tiwari Services,Healthcare,Suresh Patil,Warm,CAMP005,04-11-2025 00:00,Salesforce
+SFACC5923,Chopra Consulting,Manufacturing,Harish Agarwal,Hot,CAMP020,30-01-2025 00:00,Salesforce
+SFACC5857,Tiwari Healthcare,Technology,Vikas Srivastava,Hot,CAMP024,08-08-2024 00:00,Salesforce
+SFACC5185,Malhotra Consulting,Retail,Meera Shah,Cold,CAMP012,11-05-2024 00:00,Salesforce
+SFACC5849,Tiwari Foods,Financial Services,Ajay Rao,Hot,CAMP025,12-06-2025 00:00,Salesforce
+SFACC5413,Mishra Pharmaceuticals,Transportation,Sachin Guptha,Warm,CAMP040,18-09-2025 00:00,Salesforce
+SFACC5272,Chopra Technologies,Transportation,Karan Menon,Cold,CAMP024,03-03-2025 00:00,Salesforce
+SFACC5941,Desai Textiles,Transportation,Manish Desai,Warm,CAMP033,13-11-2024 00:00,Salesforce
+SFACC5317,Mishra Textiles,Healthcare,Ramesh Gupta,Hot,CAMP044,26-12-2025 00:00,Salesforce
+SFACC5107,Sharma Pharmaceuticals,Retail,Rajiv Bajaj,Hot,CAMP012,14-04-2024 00:00,Salesforce
+SFACC5148,Rao Industries,Retail,Manish Rao,Cold,CAMP015,10-06-2024 00:00,Salesforce
+SFACC5482,Iyer Industries,Retail,Suresh Iyer,Hot,CAMP011,09-10-2024 00:00,Salesforce
+SFACC5709,Dubey Enterprises,Retail,Seema Kapoor,Hot,CAMP025,19-01-2025 00:00,Salesforce
+SFACC5596,Tiwari Traders,Transportation,Vikas Patel,Warm,CAMP011,09-08-2024 00:00,Salesforce
+SFACC5500,Nair Traders,Manufacturing,Jane Joshi,Hot,CAMP025,07-04-2025 00:00,Salesforce
+SFACC5305,Joshi Foods,Healthcare,Rahul Verma,Cold,CAMP023,03-12-2025 00:00,Salesforce
+SFACC5478,Patil Industries,Technology,Alok Tiwari,Cold,CAMP035,23-01-2026 00:00,Salesforce
+SFACC5490,Joshi Traders,Healthcare,Vinay Yadav,Warm,CAMP040,28-08-2025 00:00,Salesforce
+SFACC5635,Yadav Solutions,Technology,Ramesh Patel,Hot,CAMP016,18-04-2024 00:00,Salesforce
+SFACC5059,Srivastava Services,Retail,Pooja Srivastava,Cold,CAMP012,14-05-2025 00:00,Salesforce
+SFACC5355,Gupta Foods,Retail,Ramesh Mishra,Warm,CAMP013,12-09-2025 00:00,Salesforce
+SFACC5841,Dubey Consulting,Healthcare,Harish Malhotra,Hot,CAMP049,25-03-2026 00:00,Salesforce
+SFACC5256,Bajaj Technologies,Retail,Sunita Kapoor,Hot,CAMP014,25-11-2024 00:00,Salesforce
+SFACC5817,Kumar Foods,Financial Services,Meena Desai,Cold,CAMP013,11-12-2025 00:00,Salesforce
+SFACC5127,Patil Textiles,Transportation,Seema Kumar,Warm,CAMP029,04-12-2025 00:00,Salesforce
+SFACC5915,Tiwari Services,Financial Services,Kavita Srivastava,Hot,CAMP046,14-07-2024 00:00,Salesforce
+SFACC5409,Desai Technologies,Manufacturing,Ravi Guptha,Hot,CAMP044,24-04-2024 00:00,Salesforce
+SFACC5739,Chopra Pharmaceuticals,Financial Services,Sachin Patel,Hot,CAMP007,27-02-2025 00:00,Salesforce
+SFACC5095,Tiwari Finance,Technology,Ajay Dubey,Cold,CAMP040,23-05-2024 00:00,Salesforce
+SFACC5854,Kapoor Consulting,Financial Services,Deepak Guptha,Warm,CAMP029,17-11-2025 00:00,Salesforce
+SFACC5754,Iyer Healthcare,Retail,Ravi Menon,Warm,CAMP001,31-12-2025 00:00,Salesforce
+SFACC5251,Mehta Industries,Retail,Lakshmi Shah,Cold,CAMP025,20-03-2024 00:00,Salesforce
+SFACC5441,Singh Consulting,Technology,Meena Desai,Cold,CAMP001,27-06-2024 00:00,Salesforce
+SFACC5123,Rao Solutions,Transportation,Meera Sharma,Cold,CAMP047,03-08-2024 00:00,Salesforce
+SFACC5518,Patel Industries,Technology,Arvind Kaur,Warm,CAMP045,15-09-2025 00:00,Salesforce
+SFACC5422,Pandey Retail,Financial Services,Manish Banerjee,Cold,CAMP012,30-04-2024 00:00,Salesforce
+SFACC5659,Menon Industries,Technology,Rohit Chopra,Hot,CAMP041,22-04-2025 00:00,Salesforce
+SFACC5469,Guptha Technologies,Healthcare,Prakash Kapoor,Warm,CAMP038,26-09-2025 00:00,Salesforce
+SFACC5270,Iyer Textiles,Healthcare,Lakshmi Reddy,Hot,CAMP023,11-10-2025 00:00,Salesforce
+SFACC5414,Sharma Consulting,Retail,Shreya Mehta,Cold,CAMP041,03-09-2025 00:00,Salesforce
+SFACC5325,Kapoor Industries,Healthcare,Arjun Sharma,Cold,CAMP027,09-08-2025 00:00,Salesforce
+SFACC5608,Rao Retail,Retail,Rohit Kapoor,Warm,CAMP030,28-08-2025 00:00,Salesforce
+SFACC5605,Guptha Healthcare,Technology,Vikas Singh,Cold,CAMP047,01-03-2026 00:00,Salesforce
+SFACC5383,Yadav Technologies,Financial Services,Sneha Iyer,Hot,CAMP019,01-04-2024 00:00,Salesforce
+SFACC5544,Verma Pharmaceuticals,Financial Services,Suresh Joshi,Hot,CAMP037,24-01-2026 00:00,Salesforce
+SFACC5062,Pandey Textiles,Technology,Sunita Rao,Hot,CAMP048,15-05-2025 00:00,Salesforce
+SFACC5053,Mishra Consulting,Retail,Alok Mishra,Hot,CAMP002,14-05-2024 00:00,Salesforce
+SFACC5090,Malhotra Consulting,Technology,Divya Reddy,Warm,CAMP033,19-03-2025 00:00,Salesforce
+SFACC5663,Verma Traders,Financial Services,Harish Patel,Hot,CAMP008,01-01-2025 00:00,Salesforce
+SFACC5891,Sharma Enterprises,Manufacturing,Manish Patel,Hot,CAMP028,01-08-2024 00:00,Salesforce
+SFACC5015,Srivastava Foods,Manufacturing,Anjali Kapoor,Cold,CAMP003,26-03-2026 00:00,Salesforce
+SFACC5807,Mehta Solutions,Financial Services,Neha Guptha,Hot,CAMP007,05-02-2024 00:00,Salesforce
+SFACC5562,Patel Solutions,Financial Services,Priya Mehta,Hot,CAMP048,29-07-2024 00:00,Salesforce
+SFACC5442,Malhotra Enterprises,Retail,Seema Pandey,Warm,CAMP045,26-01-2025 00:00,Salesforce
+SFACC5842,Iyer Healthcare,Financial Services,Rohit Singh,Hot,CAMP047,19-07-2024 00:00,Salesforce
+SFACC5591,Mishra Services,Transportation,Karan Dubey,Warm,CAMP012,20-02-2026 00:00,Salesforce
+SFACC5948,Desai Enterprises,Technology,Pooja Kapoor,Hot,CAMP050,27-09-2025 00:00,Salesforce
+SFACC5440,Mishra Foods,Technology,Suresh Menon,Hot,CAMP022,27-06-2024 00:00,Salesforce
+SFACC5761,Iyer Finance,Healthcare,Ravi Kumar,Warm,CAMP024,25-02-2024 00:00,Salesforce
+SFACC5020,Iyer Consulting,Transportation,Divya Iyer,Cold,CAMP034,20-04-2024 00:00,Salesforce
+SFACC5709,Dubey Enterprises,Retail,Seema Kapoor,Hot,CAMP025,19-01-2025 00:00,Salesforce
+SFACC5082,Kaur Logistics,Technology,Rajiv Dubey,Hot,CAMP045,25-01-2026 00:00,Salesforce
+SFACC5176,Malhotra Services,Healthcare,Lakshmi Reddy,Hot,CAMP024,09-12-2024 00:00,Salesforce
+SFACC5541,Mishra Industries,Healthcare,Anjali Patel,Cold,CAMP049,15-04-2025 00:00,Salesforce
+SFACC5823,Yadav Finance,Transportation,Vinay Banerjee,Warm,CAMP037,10-11-2024 00:00,Salesforce
+SFACC5809,Gupta Industries,Transportation,Priya Patil,Warm,CAMP002,19-01-2026 00:00,Salesforce
+SFACC5279,Verma Services,Financial Services,Divya Patel,Warm,CAMP017,10-06-2024 00:00,Salesforce
+SFACC5650,Dubey Finance,Financial Services,Ajay Agarwal,Warm,CAMP028,06-12-2025 00:00,Salesforce
+SFACC5811,Shah Solutions,Healthcare,Alok Malhotra,Warm,CAMP038,02-02-2025 00:00,Salesforce
+SFACC5421,Desai Traders,Retail,Anjali Yadav,Hot,CAMP030,31-01-2025 00:00,Salesforce
+SFACC5239,Reddy Foods,Technology,Ravi Bajaj,Cold,CAMP026,13-05-2025 00:00,Salesforce
+SFACC5698,Joshi Services,Financial Services,Kavita Srivastava,Cold,CAMP012,07-05-2024 00:00,Salesforce
+SFACC5516,Nair Logistics,Manufacturing,Amit Joshi,Cold,CAMP040,22-08-2024 00:00,Salesforce
+SFACC5151,Tiwari Finance,Financial Services,Sunita Patil,Hot,CAMP045,14-10-2025 00:00,Salesforce
+SFACC5484,Agarwal Retail,Transportation,Sachin Mehta,Cold,CAMP027,02-09-2024 00:00,Salesforce
+SFACC5838,Shah Technologies,Technology,Lakshmi Kumar,Warm,CAMP021,22-06-2025 00:00,Salesforce
+SFACC5507,Tiwari Traders,Financial Services,Meera Menon,Hot,CAMP034,19-10-2024 00:00,Salesforce
+SFACC5285,Singh Technologies,Financial Services,Divya Pandey,Cold,CAMP036,11-01-2026 00:00,Salesforce
+SFACC5871,Kapoor Enterprises,Technology,Divya Singh,Warm,CAMP047,13-09-2025 00:00,Salesforce
+SFACC5682,Agarwal Logistics,Technology,Seema Joshi,Cold,CAMP038,10-05-2025 00:00,Salesforce
+SFACC5001,Tiwari Technologies,Manufacturing,Rekha Patil,Hot,CAMP019,30-08-2025 00:00,Salesforce
+SFACC5125,Kumar Solutions,Financial Services,Neha Rao,Hot,CAMP024,22-07-2024 00:00,Salesforce
+SFACC5461,Bajaj Textiles,Retail,Anita Mishra,Warm,CAMP037,06-02-2024 00:00,Salesforce
+SFACC5473,Desai Enterprises,Technology,Anjali Menon,Warm,CAMP005,04-11-2025 00:00,Salesforce
+SFACC5011,Patel Consulting,Manufacturing,Rahul Nair,Cold,CAMP008,20-09-2024 00:00,Salesforce
+SFACC5398,Tiwari Foods,Healthcare,Amit Kaur,Warm,CAMP011,09-11-2024 00:00,Salesforce
+SFACC5836,Mehta Consulting,Healthcare,Manish Desai,Warm,CAMP032,24-03-2025 00:00,Salesforce
+SFACC5693,Mishra Logistics,Transportation,Rekha Dubey,Cold,CAMP014,10-04-2025 00:00,Salesforce
+SFACC5485,Reddy Pharmaceuticals,Financial Services,Harish Guptha,Cold,CAMP003,08-06-2025 00:00,Salesforce
+SFACC5227,Sharma Technologies,Transportation,Manish Guptha,Cold,CAMP025,05-10-2025 00:00,Salesforce
+SFACC5412,Kapoor Technologies,Technology,Sneha Dubey,Cold,CAMP009,23-06-2024 00:00,Salesforce
+SFACC5810,Tiwari Textiles,Technology,Prakash Malhotra,Hot,CAMP015,27-05-2024 00:00,Salesforce
+SFACC5032,Kapoor Solutions,Retail,Suresh Patil,Cold,CAMP032,30-04-2025 00:00,Salesforce
+SFACC5100,Mehta Enterprises,Financial Services,Ramesh Reddy,Cold,CAMP033,15-07-2024 00:00,Salesforce
+SFACC5582,Pandey Solutions,Transportation,Shalini Iyer,Cold,CAMP004,21-12-2025 00:00,Salesforce
+SFACC5909,Srivastava Consulting,Healthcare,Ajay Pandey,Cold,CAMP015,08-12-2024 00:00,Salesforce
+SFACC5463,Rao Logistics,Manufacturing,Jane Joshi,Cold,CAMP004,10-08-2025 00:00,Salesforce
+SFACC5595,Joshi Textiles,Transportation,Suresh Yadav,Hot,CAMP042,01-01-2026 00:00,Salesforce
+SFACC5594,Sharma Industries,Manufacturing,Vinod Verma,Cold,CAMP015,26-11-2025 00:00,Salesforce
+SFACC5520,Agarwal Traders,Healthcare,Prakash Agarwal,Warm,CAMP048,04-05-2024 00:00,Salesforce
+SFACC5771,Dubey Industries,Manufacturing,Shalini Joshi,Cold,CAMP044,26-07-2025 00:00,Salesforce
+SFACC5253,Shah Traders,Financial Services,Rahul Kumar,Warm,CAMP043,15-02-2026 00:00,Salesforce
+SFACC5166,Gupta Traders,Technology,Harish Mishra,Hot,CAMP031,22-07-2024 00:00,Salesforce
+SFACC5141,Guptha Solutions,Manufacturing,John Joshi,Cold,CAMP050,28-01-2026 00:00,Salesforce
+SFACC5026,Shah Solutions,Technology,Rahul Patil,Warm,CAMP029,01-08-2024 00:00,Salesforce
+SFACC5781,Joshi Services,Financial Services,Priya Rao,Hot,CAMP030,08-09-2025 00:00,Salesforce
+SFACC5740,Rao Services,Financial Services,Ravi Menon,Hot,CAMP030,24-01-2026 00:00,Salesforce
+SFACC5901,Verma Enterprises,Healthcare,Sunita Shah,Cold,CAMP023,01-02-2026 00:00,Salesforce
+SFACC5324,Singh Retail,Healthcare,Shalini Gupta,Hot,CAMP012,08-06-2025 00:00,Salesforce
+SFACC5284,Kumar Solutions,Financial Services,Sunita Bajaj,Hot,CAMP038,29-03-2026 00:00,Salesforce
+SFACC5096,Patel Services,Technology,Arvind Kumar,Warm,CAMP029,25-09-2024 00:00,Salesforce
+SFACC5581,Menon Industries,Retail,Rekha Verma,Hot,CAMP044,29-01-2026 00:00,Salesforce
+SFACC5745,Guptha Industries,Transportation,Ravi Yadav,Warm,CAMP013,20-03-2024 00:00,Salesforce
+SFACC5122,Verma Textiles,Retail,Prakash Shah,Cold,CAMP045,04-12-2024 00:00,Salesforce
+SFACC5401,Gupta Technologies,Financial Services,Arvind Verma,Hot,CAMP039,20-10-2025 00:00,Salesforce
+SFACC5827,Chopra Services,Transportation,Suresh Nair,Cold,CAMP031,27-01-2024 00:00,Salesforce
+SFACC5453,Kumar Finance,Financial Services,Arvind Rao,Warm,CAMP016,02-08-2024 00:00,Salesforce
+SFACC5806,Dubey Industries,Transportation,Amit Desai,Warm,CAMP039,06-11-2025 00:00,Salesforce
+SFACC5508,Bajaj Foods,Retail,Divya Tiwari,Warm,CAMP018,15-11-2025 00:00,Salesforce
+SFACC5438,Patil Consulting,Technology,Sunil Reddy,Cold,CAMP024,02-02-2024 00:00,Salesforce
+SFACC5014,Kumar Logistics,Healthcare,Sunil Dubey,Hot,CAMP002,05-05-2025 00:00,Salesforce
+SFACC5629,Reddy Solutions,Technology,Priya Dubey,Warm,CAMP017,13-10-2025 00:00,Salesforce
+SFACC5618,Nair Retail,Technology,Suresh Patil,Cold,CAMP003,22-11-2024 00:00,Salesforce
+SFACC5585,Verma Logistics,Retail,Sunil Banerjee,Cold,CAMP036,04-04-2025 00:00,Salesforce
+SFACC5689,Patil Foods,Financial Services,John Kapoor,Warm,CAMP025,11-05-2024 00:00,Salesforce
+SFACC5204,Kumar Textiles,Manufacturing,Anita Reddy,Cold,CAMP011,27-01-2026 00:00,Salesforce
+SFACC5410,Joshi Finance,Retail,Jane Malhotra,Cold,CAMP020,18-05-2025 00:00,Salesforce
+SFACC5717,Dubey Traders,Technology,Sneha Gupta,Cold,CAMP043,01-04-2024 00:00,Salesforce
+SFACC5147,Gupta Traders,Financial Services,Ajay Rao,Warm,CAMP007,23-05-2025 00:00,Salesforce
+SFACC5747,Gupta Traders,Healthcare,Meena Kaur,Cold,CAMP032,23-11-2025 00:00,Salesforce
+SFACC5454,Menon Foods,Financial Services,Manish Dubey,Cold,CAMP046,08-04-2024 00:00,Salesforce
+SFACC5876,Gupta Healthcare,Technology,Priya Singh,Hot,CAMP001,31-05-2024 00:00,Salesforce
+SFACC5164,Gupta Logistics,Manufacturing,Priya Sharma,Cold,CAMP020,30-08-2025 00:00,Salesforce
+SFACC5070,Agarwal Textiles,Healthcare,Ajay Verma,Cold,CAMP028,26-03-2025 00:00,Salesforce
+SFACC5614,Mishra Solutions,Healthcare,Ajay Sharma,Warm,CAMP025,31-01-2026 00:00,Salesforce
+SFACC5607,Iyer Technologies,Technology,Arvind Pandey,Cold,CAMP032,29-01-2024 00:00,Salesforce
+SFACC5798,Iyer Solutions,Financial Services,John Guptha,Cold,CAMP013,01-12-2025 00:00,Salesforce
+SFACC5088,Shah Industries,Retail,Pooja Desai,Hot,CAMP022,09-11-2024 00:00,Salesforce
+SFACC5493,Yadav Consulting,Healthcare,Meena Chopra,Hot,CAMP041,15-03-2026 00:00,Salesforce
+SFACC5626,Kapoor Traders,Manufacturing,Meena Banerjee,Hot,CAMP032,21-01-2024 00:00,Salesforce
+SFACC5337,Kumar Foods,Manufacturing,Rohit Iyer,Cold,CAMP025,30-03-2025 00:00,Salesforce
+SFACC5405,Kaur Healthcare,Financial Services,Lakshmi Kaur,Hot,CAMP029,28-01-2025 00:00,Salesforce
+SFACC5113,Iyer Consulting,Transportation,Anita Mishra,Hot,CAMP037,28-01-2024 00:00,Salesforce
+SFACC5407,Joshi Foods,Transportation,Rekha Patil,Warm,CAMP034,22-09-2025 00:00,Salesforce
+SFACC5872,Verma Healthcare,Retail,Prakash Sharma,Warm,CAMP016,25-01-2025 00:00,Salesforce
+SFACC5378,Patil Foods,Manufacturing,Divya Iyer,Warm,CAMP040,21-05-2025 00:00,Salesforce
+SFACC5246,Menon Textiles,Healthcare,Karan Yadav,Hot,CAMP041,10-07-2024 00:00,Salesforce
+SFACC5566,Srivastava Consulting,Transportation,Neha Dubey,Warm,CAMP049,21-12-2025 00:00,Salesforce
+SFACC5124,Joshi Technologies,Retail,Suresh Patil,Cold,CAMP029,13-02-2026 00:00,Salesforce
+SFACC5472,Reddy Solutions,Technology,Anjali Dubey,Warm,CAMP028,07-05-2024 00:00,Salesforce
+SFACC5483,Srivastava Pharmaceuticals,Manufacturing,Priya Mishra,Cold,CAMP030,15-02-2026 00:00,Salesforce
+SFACC5179,Mishra Pharmaceuticals,Financial Services,Rohit Bajaj,Cold,CAMP048,14-06-2025 00:00,Salesforce
+SFACC5352,Mehta Logistics,Healthcare,Vikas Mehta,Cold,CAMP045,03-10-2024 00:00,Salesforce
+SFACC5275,Dubey Technologies,Financial Services,Alok Agarwal,Hot,CAMP036,06-02-2024 00:00,Salesforce
+SFACC5583,Pandey Retail,Manufacturing,Karan Banerjee,Cold,CAMP033,03-09-2024 00:00,Salesforce
+SFACC5002,Agarwal Retail,Retail,Suresh Mishra,Hot,CAMP013,29-10-2024 00:00,Salesforce
+SFACC5819,Dubey Consulting,Transportation,Rajiv Malhotra,Cold,CAMP001,02-01-2024 00:00,Salesforce
+SFACC5797,Singh Industries,Retail,Meera Nair,Cold,CAMP015,03-05-2024 00:00,Salesforce
+SFACC5748,Desai Consulting,Retail,Manish Yadav,Warm,CAMP040,09-09-2024 00:00,Salesforce
+SFACC5676,Dubey Traders,Transportation,Sachin Verma,Cold,CAMP019,17-05-2024 00:00,Salesforce
+SFACC5163,Kapoor Services,Financial Services,John Guptha,Cold,CAMP048,06-02-2026 00:00,Salesforce
+SFACC5880,Kaur Services,Financial Services,Shalini Sharma,Warm,CAMP042,31-08-2025 00:00,Salesforce
+SFACC5300,Gupta Logistics,Manufacturing,Shalini Nair,Warm,CAMP014,19-03-2025 00:00,Salesforce
+SFACC5775,Agarwal Enterprises,Healthcare,Divya Desai,Hot,CAMP032,21-07-2024 00:00,Salesforce
+SFACC5025,Singh Logistics,Technology,Rajiv Shah,Cold,CAMP021,10-05-2025 00:00,Salesforce
+SFACC5444,Kapoor Finance,Financial Services,Neha Reddy,Warm,CAMP041,03-04-2024 00:00,Salesforce
+SFACC5863,Kaur Logistics,Transportation,Anjali Nair,Hot,CAMP017,23-04-2025 00:00,Salesforce
+SFACC5868,Tiwari Foods,Financial Services,Rajiv Menon,Cold,CAMP028,20-03-2025 00:00,Salesforce
+SFACC5455,Malhotra Technologies,Retail,Shreya Gupta,Cold,CAMP049,25-11-2024 00:00,Salesforce
+SFACC5263,Desai Solutions,Transportation,Vinod Patil,Hot,CAMP038,20-03-2024 00:00,Salesforce
+SFACC5858,Shah Solutions,Transportation,Prakash Verma,Hot,CAMP017,23-05-2024 00:00,Salesforce
+SFACC5072,Malhotra Foods,Retail,Alok Reddy,Warm,CAMP040,24-05-2024 00:00,Salesforce
+SFACC5913,Yadav Pharmaceuticals,Financial Services,Ramesh Pandey,Cold,CAMP016,20-08-2025 00:00,Salesforce
+SFACC5547,Joshi Services,Manufacturing,Shreya Mehta,Cold,CAMP033,05-11-2025 00:00,Salesforce
+SFACC5720,Joshi Solutions,Retail,Neha Reddy,Warm,CAMP020,22-07-2024 00:00,Salesforce
+SFACC5544,Verma Pharmaceuticals,Financial Services,Suresh Joshi,Hot,CAMP037,24-01-2026 00:00,Salesforce
+SFACC5177,Guptha Traders,Transportation,Rohit Mehta,Warm,CAMP002,07-11-2025 00:00,Salesforce
+SFACC5087,Chopra Solutions,Healthcare,Jane Banerjee,Hot,CAMP024,19-07-2025 00:00,Salesforce
+SFACC5701,Malhotra Foods,Technology,Sunil Gupta,Warm,CAMP045,16-11-2025 00:00,Salesforce
+SFACC5847,Pandey Solutions,Financial Services,Prakash Yadav,Cold,CAMP041,22-09-2025 00:00,Salesforce
+SFACC5672,Pandey Solutions,Financial Services,Sneha Menon,Hot,CAMP025,21-07-2024 00:00,Salesforce
+SFACC5142,Iyer Solutions,Retail,Ajay Malhotra,Cold,CAMP007,09-01-2024 00:00,Salesforce
+SFACC5492,Verma Consulting,Manufacturing,Suresh Mehta,Warm,CAMP003,24-12-2025 00:00,Salesforce
+SFACC5135,Sharma Retail,Financial Services,Kavita Shah,Warm,CAMP037,19-10-2025 00:00,Salesforce
+SFACC5052,Kumar Services,Retail,Karan Kapoor,Cold,CAMP034,26-08-2024 00:00,Salesforce
+SFACC5457,Menon Services,Healthcare,Alok Shah,Warm,CAMP040,17-05-2025 00:00,Salesforce
+SFACC5912,Kapoor Textiles,Retail,Jane Patil,Warm,CAMP035,11-08-2025 00:00,Salesforce
+SFACC5564,Nair Consulting,Transportation,Jane Shah,Cold,CAMP019,24-07-2025 00:00,Salesforce
+SFACC5887,Joshi Finance,Manufacturing,Anita Patel,Hot,CAMP040,31-03-2026 00:00,Salesforce
+SFACC5154,Kapoor Healthcare,Technology,Rahul Mishra,Hot,CAMP036,14-01-2026 00:00,Salesforce
+SFACC5424,Tiwari Enterprises,Retail,Arjun Sharma,Cold,CAMP012,16-10-2025 00:00,Salesforce
+SFACC5735,Malhotra Solutions,Technology,Arvind Chopra,Hot,CAMP033,14-05-2025 00:00,Salesforce
+SFACC5097,Singh Consulting,Healthcare,Ramesh Mishra,Warm,CAMP004,17-03-2025 00:00,Salesforce
+SFACC5239,Reddy Foods,Technology,Ravi Bajaj,Cold,CAMP026,13-05-2025 00:00,Salesforce
+SFACC5568,Sharma Foods,Manufacturing,Arjun Sharma,Hot,CAMP025,12-12-2024 00:00,Salesforce
+SFACC5789,Guptha Pharmaceuticals,Transportation,Suresh Shah,Warm,CAMP007,16-08-2024 00:00,Salesforce
+SFACC5681,Joshi Solutions,Transportation,John Chopra,Warm,CAMP016,25-07-2025 00:00,Salesforce
+SFACC5281,Guptha Foods,Financial Services,Harish Nair,Hot,CAMP010,09-02-2026 00:00,Salesforce
+SFACC5388,Singh Enterprises,Healthcare,Sunil Bajaj,Hot,CAMP049,21-12-2025 00:00,Salesforce
+SFACC5297,Agarwal Industries,Healthcare,Arjun Bajaj,Hot,CAMP033,28-03-2024 00:00,Salesforce
+SFACC5280,Banerjee Enterprises,Technology,Prakash Pandey,Cold,CAMP016,16-01-2026 00:00,Salesforce
+SFACC5497,Bajaj Logistics,Financial Services,Sunil Kaur,Hot,CAMP015,22-02-2025 00:00,Salesforce
+SFACC5697,Malhotra Healthcare,Retail,Prakash Kaur,Cold,CAMP013,25-02-2025 00:00,Salesforce
+SFACC5710,Rao Solutions,Healthcare,Rohit Tiwari,Hot,CAMP047,13-07-2025 00:00,Salesforce
+SFACC5527,Bajaj Foods,Financial Services,Vinod Bajaj,Cold,CAMP041,22-07-2025 00:00,Salesforce
+SFACC5615,Menon Textiles,Manufacturing,Arvind Chopra,Hot,CAMP034,12-12-2024 00:00,Salesforce
+SFACC5170,Mishra Healthcare,Healthcare,Sachin Mishra,Warm,CAMP010,03-02-2024 00:00,Salesforce
+SFACC5380,Mehta Services,Transportation,Neha Joshi,Hot,CAMP013,03-08-2024 00:00,Salesforce
+SFACC5660,Yadav Foods,Manufacturing,Amit Kumar,Warm,CAMP044,12-04-2025 00:00,Salesforce
+SFACC5339,Patil Finance,Transportation,Sneha Nair,Warm,CAMP001,08-03-2026 00:00,Salesforce
+SFACC5029,Gupta Textiles,Transportation,Kavita Patel,Cold,CAMP005,18-10-2025 00:00,Salesforce
+SFACC5901,Verma Enterprises,Healthcare,Sunita Shah,Cold,CAMP023,01-02-2026 00:00,Salesforce
+SFACC5417,Kumar Technologies,Technology,Divya Singh,Cold,CAMP030,25-06-2024 00:00,Salesforce
+SFACC5885,Mehta Services,Retail,Suresh Dubey,Warm,CAMP021,30-12-2024 00:00,Salesforce
+SFACC5435,Menon Finance,Technology,Divya Kapoor,Warm,CAMP017,21-01-2025 00:00,Salesforce
+SFACC5906,Gupta Textiles,Transportation,Lakshmi Shah,Hot,CAMP015,29-01-2024 00:00,Salesforce
+SFACC5814,Shah Textiles,Retail,John Agarwal,Cold,CAMP035,06-12-2025 00:00,Salesforce
+SFACC5225,Desai Industries,Healthcare,Vikas Kaur,Cold,CAMP022,03-02-2025 00:00,Salesforce
+SFACC5386,Guptha Foods,Technology,Jane Mishra,Warm,CAMP008,11-05-2025 00:00,Salesforce
+SFACC5511,Malhotra Industries,Transportation,Arjun Mehta,Warm,CAMP027,24-08-2024 00:00,Salesforce
+SFACC5010,Nair Healthcare,Financial Services,Vikas Chopra,Hot,CAMP048,16-09-2024 00:00,Salesforce
+SFACC5756,Mishra Enterprises,Retail,Sanjay Joshi,Warm,CAMP045,18-11-2024 00:00,Salesforce
+SFACC5514,Kumar Consulting,Retail,Arjun Reddy,Cold,CAMP021,12-06-2024 00:00,Salesforce
+SFACC5613,Patil Pharmaceuticals,Manufacturing,Rajiv Patel,Hot,CAMP033,08-08-2024 00:00,Salesforce
+SFACC5351,Reddy Logistics,Financial Services,Sunita Kaur,Warm,CAMP046,31-03-2026 00:00,Salesforce
+SFACC5187,Patil Logistics,Financial Services,Kavita Mehta,Cold,CAMP015,29-08-2024 00:00,Salesforce
+SFACC5686,Joshi Solutions,Financial Services,Rajiv Rao,Cold,CAMP026,01-05-2024 00:00,Salesforce
+SFACC5677,Menon Consulting,Transportation,Seema Kaur,Cold,CAMP017,18-01-2026 00:00,Salesforce
+SFACC5315,Reddy Enterprises,Technology,Meera Menon,Hot,CAMP011,30-04-2025 00:00,Salesforce
+SFACC5725,Banerjee Healthcare,Manufacturing,Harish Patil,Warm,CAMP030,22-01-2026 00:00,Salesforce
+SFACC5567,Nair Healthcare,Manufacturing,Alok Agarwal,Warm,CAMP039,04-04-2024 00:00,Salesforce
+SFACC5570,Banerjee Textiles,Transportation,Suresh Verma,Warm,CAMP048,08-05-2024 00:00,Salesforce
+SFACC5764,Agarwal Pharmaceuticals,Manufacturing,Alok Joshi,Hot,CAMP020,29-03-2024 00:00,Salesforce
+SFACC5359,Mehta Retail,Retail,Deepak Patil,Warm,CAMP045,04-10-2025 00:00,Salesforce
+SFACC5680,Chopra Enterprises,Financial Services,Ajay Patil,Warm,CAMP020,22-02-2024 00:00,Salesforce
+SFACC5730,Reddy Foods,Transportation,Shreya Banerjee,Warm,CAMP023,22-01-2026 00:00,Salesforce
+SFACC5840,Patel Foods,Transportation,Seema Kaur,Cold,CAMP031,09-09-2025 00:00,Salesforce
+SFACC5925,Sharma Textiles,Retail,Kavita Yadav,Warm,CAMP036,06-02-2025 00:00,Salesforce
+SFACC5670,Singh Technologies,Healthcare,Sunil Mehta,Warm,CAMP022,10-02-2025 00:00,Salesforce
+SFACC5646,Verma Traders,Transportation,John Iyer,Cold,CAMP048,18-08-2025 00:00,Salesforce
+SFACC5655,Kaur Healthcare,Retail,Ravi Guptha,Warm,CAMP027,11-06-2025 00:00,Salesforce
+SFACC5031,Joshi Retail,Retail,Harish Banerjee,Hot,CAMP029,24-06-2025 00:00,Salesforce
+SFACC5035,Guptha Technologies,Manufacturing,Anjali Srivastava,Cold,CAMP038,07-06-2024 00:00,Salesforce
+SFACC5696,Pandey Industries,Manufacturing,Sachin Guptha,Warm,CAMP023,04-05-2024 00:00,Salesforce
+SFACC5198,Dubey Technologies,Financial Services,Prakash Sharma,Cold,CAMP002,31-12-2024 00:00,Salesforce
+SFACC5816,Singh Pharmaceuticals,Transportation,Jane Patil,Hot,CAMP044,19-04-2025 00:00,Salesforce
+SFACC5522,Yadav Technologies,Healthcare,Meera Singh,Hot,CAMP034,24-11-2025 00:00,Salesforce
+SFACC5557,Tiwari Consulting,Transportation,Arjun Kaur,Cold,CAMP016,15-07-2025 00:00,Salesforce
+SFACC5138,Patil Solutions,Manufacturing,Seema Sharma,Warm,CAMP001,23-11-2024 00:00,Salesforce
+SFACC5382,Kumar Foods,Manufacturing,Sunita Gupta,Hot,CAMP046,24-10-2024 00:00,Salesforce
+SFACC5603,Tiwari Services,Healthcare,Suresh Patil,Warm,CAMP005,04-11-2025 00:00,Salesforce
+SFACC5189,Srivastava Industries,Transportation,Meena Banerjee,Warm,CAMP048,28-09-2025 00:00,Salesforce
+SFACC5273,Shah Technologies,Manufacturing,Ravi Kaur,Hot,CAMP010,11-05-2025 00:00,Salesforce
+SFACC5477,Iyer Pharmaceuticals,Retail,Manish Iyer,Cold,CAMP033,12-12-2025 00:00,Salesforce
+SFACC5867,Patil Enterprises,Retail,Divya Mishra,Cold,CAMP050,22-03-2026 00:00,Salesforce
+SFACC5223,Verma Retail,Transportation,Sachin Guptha,Warm,CAMP004,29-09-2025 00:00,Salesforce
+SFACC5210,Malhotra Pharmaceuticals,Financial Services,John Gupta,Warm,CAMP041,31-01-2024 00:00,Salesforce
+SFACC5515,Patil Retail,Financial Services,Meera Mehta,Cold,CAMP043,27-03-2026 00:00,Salesforce
+SFACC5310,Dubey Traders,Healthcare,Kavita Rao,Warm,CAMP009,23-10-2025 00:00,Salesforce
+SFACC5779,Reddy Retail,Financial Services,Rohit Kapoor,Warm,CAMP023,27-05-2025 00:00,Salesforce
+SFACC5580,Guptha Solutions,Healthcare,Sachin Singh,Cold,CAMP021,13-10-2024 00:00,Salesforce
+SFACC5259,Srivastava Logistics,Manufacturing,Anita Singh,Hot,CAMP038,30-08-2025 00:00,Salesforce
+SFACC5067,Chopra Retail,Healthcare,Rohit Guptha,Cold,CAMP042,19-01-2026 00:00,Salesforce
+SFACC5598,Sharma Services,Financial Services,Rohit Yadav,Cold,CAMP025,14-07-2024 00:00,Salesforce
+SFACC5243,Iyer Technologies,Healthcare,Arvind Yadav,Warm,CAMP012,04-12-2025 00:00,Salesforce
+SFACC5640,Kapoor Consulting,Transportation,Amit Dubey,Hot,CAMP037,22-01-2025 00:00,Salesforce
+SFACC5104,Joshi Enterprises,Manufacturing,Harish Shah,Hot,CAMP021,29-11-2025 00:00,Salesforce
+SFACC5799,Pandey Services,Healthcare,Arjun Chopra,Cold,CAMP038,31-12-2025 00:00,Salesforce
+SFACC5830,Mehta Finance,Healthcare,Rajiv Tiwari,Warm,CAMP019,29-07-2024 00:00,Salesforce
+SFACC5599,Yadav Consulting,Financial Services,Meera Kumar,Warm,CAMP023,08-04-2025 00:00,Salesforce
+SFACC5232,Yadav Textiles,Technology,Arjun Shah,Hot,CAMP012,08-04-2024 00:00,Salesforce
+SFACC5458,Reddy Healthcare,Retail,Jane Singh,Cold,CAMP019,01-01-2025 00:00,Salesforce
+SFACC5203,Singh Textiles,Healthcare,Arjun Chopra,Warm,CAMP008,02-05-2024 00:00,Salesforce
+SFACC5792,Patil Industries,Manufacturing,Sunita Dubey,Cold,CAMP018,16-03-2026 00:00,Salesforce
+SFACC5800,Bajaj Industries,Technology,Jane Kaur,Hot,CAMP003,16-06-2025 00:00,Salesforce
+SFACC5168,Chopra Technologies,Healthcare,Suresh Tiwari,Hot,CAMP002,07-06-2024 00:00,Salesforce
+SFACC5661,Rao Finance,Manufacturing,Lakshmi Menon,Hot,CAMP006,30-12-2024 00:00,Salesforce
+SFACC5058,Patel Technologies,Financial Services,Sneha Mishra,Cold,CAMP029,14-02-2025 00:00,Salesforce
+SFACC5173,Iyer Technologies,Technology,Sunil Shah,Warm,CAMP005,12-08-2024 00:00,Salesforce
+SFACC5186,Kumar Traders,Transportation,Vinay Rao,Hot,CAMP047,15-10-2024 00:00,Salesforce
+SFACC5047,Tiwari Finance,Transportation,Shreya Dubey,Hot,CAMP022,20-09-2024 00:00,Salesforce
+SFACC5449,Tiwari Logistics,Technology,Arvind Banerjee,Warm,CAMP049,22-10-2025 00:00,Salesforce
+SFACC5073,Chopra Logistics,Healthcare,Ravi Kapoor,Hot,CAMP013,19-11-2024 00:00,Salesforce
+SFACC5019,Guptha Finance,Retail,Vinod Mishra,Warm,CAMP049,30-03-2024 00:00,Salesforce
+SFACC5005,Menon Textiles,Transportation,Vinay Kumar,Warm,CAMP033,28-09-2025 00:00,Salesforce
+SFACC5644,Verma Enterprises,Retail,Divya Dubey,Warm,CAMP023,24-04-2025 00:00,Salesforce
+SFACC5832,Sharma Technologies,Retail,John Kapoor,Hot,CAMP009,16-06-2024 00:00,Salesforce
+SFACC5934,Kumar Foods,Healthcare,Manish Banerjee,Cold,CAMP022,15-09-2024 00:00,Salesforce
+SFACC5043,Sharma Consulting,Retail,Rekha Kapoor,Warm,CAMP044,21-09-2024 00:00,Salesforce
+SFACC5338,Srivastava Solutions,Transportation,Sneha Bajaj,Warm,CAMP048,07-12-2025 00:00,Salesforce
+SFACC5064,Kumar Finance,Manufacturing,Prakash Iyer,Cold,CAMP041,08-08-2024 00:00,Salesforce
+SFACC5523,Singh Industries,Technology,Ramesh Verma,Warm,CAMP031,20-05-2024 00:00,Salesforce
+SFACC5803,Srivastava Healthcare,Transportation,Shalini Desai,Cold,CAMP016,10-08-2024 00:00,Salesforce
+SFACC5786,Reddy Finance,Technology,Vinod Tiwari,Hot,CAMP002,22-08-2024 00:00,Salesforce
+SFACC5641,Desai Consulting,Healthcare,Vinay Mishra,Cold,CAMP028,28-10-2025 00:00,Salesforce
+SFACC5236,Srivastava Traders,Technology,Ramesh Verma,Hot,CAMP032,17-02-2024 00:00,Salesforce
+SFACC5521,Pandey Traders,Technology,Jane Verma,Warm,CAMP008,17-06-2024 00:00,Salesforce
+SFACC5419,Iyer Pharmaceuticals,Manufacturing,Kavita Banerjee,Cold,CAMP004,20-05-2025 00:00,Salesforce
+SFACC5874,Bajaj Foods,Financial Services,Prakash Guptha,Cold,CAMP029,12-04-2025 00:00,Salesforce
+SFACC5778,Verma Pharmaceuticals,Financial Services,Divya Bajaj,Cold,CAMP032,03-01-2026 00:00,Salesforce
+SFACC5291,Rao Textiles,Financial Services,Shreya Singh,Cold,CAMP013,06-03-2026 00:00,Salesforce
+SFACC5760,Singh Logistics,Manufacturing,Vinay Srivastava,Hot,CAMP050,07-03-2024 00:00,Salesforce
+SFACC5773,Desai Enterprises,Manufacturing,Meena Reddy,Hot,CAMP014,18-11-2025 00:00,Salesforce
+SFACC5331,Kaur Healthcare,Transportation,Meera Verma,Cold,CAMP002,10-05-2025 00:00,Salesforce
+SFACC5462,Kapoor Traders,Retail,Deepak Chopra,Warm,CAMP003,24-12-2025 00:00,Salesforce
+SFACC5056,Singh Finance,Financial Services,Rohit Srivastava,Hot,CAMP020,16-12-2025 00:00,Salesforce
+SFACC5571,Bajaj Enterprises,Transportation,Suresh Banerjee,Warm,CAMP005,19-05-2025 00:00,Salesforce
+SFACC5862,Nair Industries,Technology,Sunita Singh,Hot,CAMP038,04-11-2024 00:00,Salesforce
+SFACC5325,Kapoor Industries,Healthcare,Arjun Sharma,Cold,CAMP027,09-08-2025 00:00,Salesforce
+SFACC5290,Yadav Logistics,Retail,Kavita Rao,Hot,CAMP010,23-11-2024 00:00,Salesforce
+SFACC5475,Rao Logistics,Transportation,Rahul Tiwari,Hot,CAMP046,24-09-2024 00:00,Salesforce
+SFACC5293,Pandey Enterprises,Manufacturing,Amit Gupta,Warm,CAMP001,13-07-2025 00:00,Salesforce
+SFACC5464,Sharma Services,Transportation,Ramesh Kapoor,Warm,CAMP001,29-03-2025 00:00,Salesforce
+SFACC5536,Malhotra Foods,Healthcare,Pooja Iyer,Cold,CAMP021,13-12-2024 00:00,Salesforce
+SFACC5292,Bajaj Pharmaceuticals,Retail,Rekha Tiwari,Warm,CAMP007,28-03-2024 00:00,Salesforce
+SFACC5517,Kaur Industries,Transportation,Anjali Verma,Cold,CAMP019,07-06-2024 00:00,Salesforce
+SFACC5550,Mehta Services,Financial Services,Arvind Sharma,Hot,CAMP006,02-04-2024 00:00,Salesforce
+SFACC5288,Patel Finance,Technology,Lakshmi Sharma,Warm,CAMP032,26-08-2024 00:00,Salesforce
+SFACC5357,Gupta Retail,Healthcare,Karan Patel,Hot,CAMP039,26-09-2024 00:00,Salesforce
+SFACC5247,Chopra Solutions,Financial Services,Shalini Verma,Warm,CAMP036,13-09-2024 00:00,Salesforce
+SFACC5007,Banerjee Logistics,Financial Services,Jane Dubey,Hot,CAMP049,13-08-2025 00:00,Salesforce
+SFACC5192,Rao Industries,Retail,Arvind Yadav,Warm,CAMP035,09-04-2025 00:00,Salesforce
+SFACC5714,Desai Textiles,Healthcare,Arjun Menon,Hot,CAMP007,14-06-2025 00:00,Salesforce
+SFACC5707,Mehta Solutions,Healthcare,Sneha Joshi,Warm,CAMP031,04-12-2024 00:00,Salesforce
+SFACC5041,Pandey Logistics,Healthcare,Suresh Banerjee,Warm,CAMP022,04-07-2024 00:00,Salesforce
+SFACC5311,Patil Consulting,Financial Services,Sachin Yadav,Warm,CAMP013,09-06-2025 00:00,Salesforce
+SFACC5261,Nair Pharmaceuticals,Financial Services,Rekha Malhotra,Hot,CAMP049,28-04-2024 00:00,Salesforce
+SFACC5222,Desai Textiles,Retail,Vinay Kapoor,Hot,CAMP046,04-03-2024 00:00,Salesforce
+SFACC5889,Iyer Technologies,Technology,Vinod Iyer,Cold,CAMP006,20-11-2024 00:00,Salesforce
+SFACC5316,Joshi Logistics,Technology,Sachin Menon,Cold,CAMP021,30-03-2024 00:00,Salesforce
+SFACC5046,Malhotra Finance,Healthcare,Harish Nair,Hot,CAMP012,03-12-2025 00:00,Salesforce
+SFACC5296,Dubey Traders,Healthcare,Deepak Gupta,Cold,CAMP026,08-02-2025 00:00,Salesforce
+SFACC5888,Sharma Solutions,Manufacturing,Vikas Tiwari,Warm,CAMP026,31-07-2025 00:00,Salesforce
+SFACC5861,Verma Consulting,Financial Services,Karan Chopra,Hot,CAMP040,03-07-2025 00:00,Salesforce
+SFACC5120,Guptha Traders,Retail,John Banerjee,Cold,CAMP036,13-07-2025 00:00,Salesforce
+SFACC5299,Tiwari Industries,Financial Services,Pooja Guptha,Cold,CAMP006,04-07-2025 00:00,Salesforce
+SFACC5586,Patel Pharmaceuticals,Financial Services,Jane Singh,Cold,CAMP050,18-02-2026 00:00,Salesforce
+SFACC5762,Malhotra Textiles,Retail,Anita Patil,Cold,CAMP027,26-09-2025 00:00,Salesforce
+SFACC5146,Kapoor Technologies,Manufacturing,Vikas Chopra,Hot,CAMP040,14-07-2024 00:00,Salesforce
+SFACC5647,Pandey Traders,Financial Services,Ramesh Mishra,Warm,CAMP050,08-08-2024 00:00,Salesforce
+SFACC5575,Kapoor Retail,Manufacturing,Neha Patel,Warm,CAMP018,22-08-2024 00:00,Salesforce
+SFACC5111,Nair Finance,Manufacturing,Arvind Kaur,Warm,CAMP042,02-03-2025 00:00,Salesforce
+SFACC5450,Gupta Traders,Technology,Vinod Patil,Cold,CAMP046,29-04-2025 00:00,Salesforce
+SFACC5751,Rao Pharmaceuticals,Technology,Ramesh Patel,Warm,CAMP007,24-02-2026 00:00,Salesforce
+SFACC5451,Mehta Technologies,Financial Services,Meera Kumar,Cold,CAMP003,08-03-2024 00:00,Salesforce
+SFACC5818,Kumar Pharmaceuticals,Transportation,Vinod Yadav,Cold,CAMP048,04-05-2025 00:00,Salesforce
+SFACC5793,Singh Enterprises,Financial Services,Vikas Desai,Warm,CAMP004,04-11-2024 00:00,Salesforce
+SFACC5685,Guptha Solutions,Retail,Neha Menon,Hot,CAMP008,22-01-2024 00:00,Salesforce
+SFACC5666,Kapoor Services,Healthcare,Jane Srivastava,Cold,CAMP049,15-03-2026 00:00,Salesforce
+SFACC5399,Desai Healthcare,Financial Services,Anjali Malhotra,Cold,CAMP017,29-09-2025 00:00,Salesforce
+SFACC5560,Desai Industries,Technology,Shreya Bajaj,Cold,CAMP005,02-07-2025 00:00,Salesforce
+SFACC5224,Kaur Pharmaceuticals,Technology,Sunita Kapoor,Warm,CAMP003,26-02-2024 00:00,Salesforce
+SFACC5241,Patil Solutions,Transportation,Amit Srivastava,Cold,CAMP034,06-04-2025 00:00,Salesforce
+SFACC5374,Patil Healthcare,Financial Services,Priya Singh,Hot,CAMP001,02-07-2024 00:00,Salesforce
+SFACC5933,Malhotra Consulting,Healthcare,Meena Sharma,Hot,CAMP019,04-10-2024 00:00,Salesforce
+SFACC5481,Guptha Healthcare,Technology,Priya Rao,Warm,CAMP040,29-11-2024 00:00,Salesforce
+SFACC5897,Tiwari Textiles,Technology,Seema Srivastava,Cold,CAMP037,28-08-2024 00:00,Salesforce
+SFACC5496,Gupta Enterprises,Healthcare,Vikas Desai,Hot,CAMP032,16-08-2024 00:00,Salesforce
+SFACC5233,Patil Services,Transportation,Jane Rao,Warm,CAMP008,08-09-2025 00:00,Salesforce
+SFACC5750,Singh Textiles,Healthcare,Meera Banerjee,Warm,CAMP008,27-01-2025 00:00,Salesforce
+SFACC5882,Gupta Services,Manufacturing,Vinay Agarwal,Hot,CAMP002,16-02-2025 00:00,Salesforce
+SFACC5175,Joshi Traders,Manufacturing,Arjun Pandey,Warm,CAMP016,21-04-2025 00:00,Salesforce
+SFACC5301,Malhotra Services,Financial Services,Seema Patil,Warm,CAMP005,22-01-2025 00:00,Salesforce
+SFACC5363,Nair Pharmaceuticals,Transportation,Vinay Tiwari,Hot,CAMP020,26-05-2024 00:00,Salesforce
+SFACC5542,Nair Healthcare,Technology,Sunil Rao,Hot,CAMP019,25-10-2025 00:00,Salesforce
+SFACC5637,Desai Traders,Financial Services,Karan Srivastava,Cold,CAMP032,21-07-2025 00:00,Salesforce
+SFACC5785,Reddy Textiles,Transportation,Prakash Malhotra,Cold,CAMP028,09-07-2025 00:00,Salesforce
+SFACC5254,Joshi Industries,Financial Services,Jane Verma,Cold,CAMP003,14-02-2026 00:00,Salesforce
+SFACC5466,Verma Industries,Technology,Manish Tiwari,Warm,CAMP007,24-06-2024 00:00,Salesforce
+SFACC5085,Malhotra Foods,Retail,Seema Tiwari,Cold,CAMP049,13-02-2026 00:00,Salesforce
+SFACC5461,Bajaj Textiles,Retail,Anita Mishra,Warm,CAMP037,06-02-2024 00:00,Salesforce
+SFACC5736,Mishra Healthcare,Financial Services,Sachin Nair,Cold,CAMP008,29-08-2025 00:00,Salesforce
+SFACC5036,Malhotra Retail,Technology,Meera Banerjee,Cold,CAMP022,06-09-2025 00:00,Salesforce
+SFACC5089,Yadav Services,Technology,Jane Nair,Warm,CAMP031,22-09-2025 00:00,Salesforce
+SFACC5767,Srivastava Traders,Financial Services,Deepak Pandey,Cold,CAMP047,27-09-2025 00:00,Salesforce
+SFACC5753,Guptha Healthcare,Retail,Priya Dubey,Hot,CAMP015,14-03-2026 00:00,Salesforce
+SFACC5770,Iyer Textiles,Transportation,Vinod Kaur,Cold,CAMP032,10-04-2025 00:00,Salesforce
+SFACC5820,Mishra Pharmaceuticals,Financial Services,Ajay Desai,Warm,CAMP050,13-06-2024 00:00,Salesforce
+SFACC5855,Patel Pharmaceuticals,Manufacturing,Sunil Patil,Cold,CAMP005,15-09-2025 00:00,Salesforce
+SFACC5425,Nair Logistics,Transportation,Rohit Sharma,Hot,CAMP005,16-08-2025 00:00,Salesforce
+SFACC5276,Kaur Pharmaceuticals,Manufacturing,Harish Srivastava,Warm,CAMP010,29-11-2025 00:00,Salesforce
+SFACC5574,Patel Consulting,Transportation,Vinay Sharma,Warm,CAMP010,10-01-2025 00:00,Salesforce
+SFACC5346,Sharma Textiles,Technology,Shreya Patel,Warm,CAMP044,18-01-2026 00:00,Salesforce
+SFACC5791,Shah Healthcare,Healthcare,Lakshmi Banerjee,Cold,CAMP049,06-08-2025 00:00,Salesforce
+SFACC5712,Banerjee Finance,Financial Services,Neha Kumar,Hot,CAMP014,11-04-2024 00:00,Salesforce
+SFACC5907,Sharma Textiles,Manufacturing,Shreya Pandey,Cold,CAMP042,12-11-2024 00:00,Salesforce
+SFACC5616,Kapoor Technologies,Manufacturing,Harish Yadav,Warm,CAMP004,22-01-2024 00:00,Salesforce
+SFACC5191,Rao Foods,Financial Services,Prakash Rao,Cold,CAMP038,04-12-2024 00:00,Salesforce
+SFACC5399,Desai Healthcare,Financial Services,Anjali Malhotra,Cold,CAMP017,29-09-2025 00:00,Salesforce
+SFACC5433,Bajaj Finance,Retail,Seema Banerjee,Hot,CAMP007,18-01-2025 00:00,Salesforce
+SFACC5652,Menon Traders,Healthcare,Anjali Guptha,Hot,CAMP020,27-08-2024 00:00,Salesforce
+SFACC5214,Agarwal Traders,Retail,Sachin Mehta,Cold,CAMP012,21-04-2024 00:00,Salesforce
+SFACC5103,Shah Enterprises,Healthcare,Sneha Singh,Warm,CAMP033,05-02-2024 00:00,Salesforce
+SFACC5362,Bajaj Industries,Retail,Shalini Desai,Warm,CAMP020,09-01-2026 00:00,Salesforce
+SFACC5552,Dubey Technologies,Manufacturing,Amit Sharma,Cold,CAMP004,23-02-2024 00:00,Salesforce
+SFACC5664,Srivastava Enterprises,Transportation,Anita Kapoor,Warm,CAMP003,13-08-2025 00:00,Salesforce
+SFACC5034,Malhotra Finance,Manufacturing,Priya Agarwal,Cold,CAMP025,09-11-2024 00:00,Salesforce
+SFACC5513,Verma Finance,Transportation,Neha Joshi,Cold,CAMP024,11-05-2025 00:00,Salesforce
+SFACC5506,Verma Foods,Transportation,Harish Verma,Cold,CAMP045,16-08-2025 00:00,Salesforce
+SFACC5452,Agarwal Solutions,Retail,Sneha Kumar,Cold,CAMP030,12-09-2024 00:00,Salesforce
+SFACC5501,Shah Textiles,Technology,Rajiv Mishra,Hot,CAMP033,20-05-2024 00:00,Salesforce
+SFACC5403,Srivastava Textiles,Financial Services,Ajay Reddy,Hot,CAMP040,14-12-2024 00:00,Salesforce
+SFACC5853,Chopra Industries,Manufacturing,Manish Desai,Warm,CAMP026,26-03-2025 00:00,Salesforce
+SFACC5695,Reddy Enterprises,Transportation,Arjun Sharma,Hot,CAMP008,14-08-2024 00:00,Salesforce
+SFACC5633,Gupta Finance,Financial Services,Deepak Mishra,Warm,CAMP032,07-05-2024 00:00,Salesforce
+SFACC5910,Nair Solutions,Retail,Shreya Banerjee,Warm,CAMP028,26-02-2024 00:00,Salesforce
+SFACC5345,Kumar Finance,Technology,Seema Joshi,Warm,CAMP043,09-02-2026 00:00,Salesforce
+SFACC5109,Tiwari Industries,Healthcare,Rohit Mehta,Warm,CAMP039,23-01-2026 00:00,Salesforce
+SFACC5290,Yadav Logistics,Retail,Kavita Rao,Hot,CAMP010,23-11-2024 00:00,Salesforce
+SFACC5208,Reddy Services,Financial Services,Sachin Mishra,Hot,CAMP021,01-03-2025 00:00,Salesforce
+SFACC5328,Guptha Textiles,Retail,Meera Kaur,Hot,CAMP013,10-08-2024 00:00,Salesforce
+SFACC5271,Dubey Textiles,Transportation,Vikas Desai,Cold,CAMP026,26-01-2025 00:00,Salesforce
+SFACC5303,Singh Foods,Manufacturing,Rohit Patel,Cold,CAMP025,26-02-2025 00:00,Salesforce
+SFACC5117,Verma Foods,Transportation,Pooja Mishra,Hot,CAMP009,01-03-2024 00:00,Salesforce
+SFACC5632,Iyer Healthcare,Retail,Ajay Banerjee,Hot,CAMP015,28-04-2024 00:00,Salesforce
+SFACC5729,Reddy Logistics,Healthcare,John Menon,Hot,CAMP028,24-03-2024 00:00,Salesforce
+SFACC5137,Chopra Industries,Technology,Karan Kapoor,Warm,CAMP002,10-01-2026 00:00,Salesforce
+SFACC5852,Nair Pharmaceuticals,Technology,Shreya Chopra,Cold,CAMP010,22-02-2025 00:00,Salesforce
+SFACC5420,Singh Solutions,Healthcare,Vinod Banerjee,Hot,CAMP014,19-12-2025 00:00,Salesforce
+SFACC5805,Mishra Pharmaceuticals,Manufacturing,Neha Srivastava,Cold,CAMP037,08-05-2025 00:00,Salesforce
+SFACC5130,Iyer Foods,Retail,Shalini Patil,Hot,CAMP038,15-01-2024 00:00,Salesforce
+SFACC5653,Gupta Consulting,Financial Services,Rahul Banerjee,Warm,CAMP023,25-07-2024 00:00,Salesforce
+SFACC5927,Shah Enterprises,Retail,Vinay Shah,Cold,CAMP037,04-11-2025 00:00,Salesforce
+SFACC5746,Dubey Foods,Transportation,Ramesh Kumar,Warm,CAMP037,08-09-2024 00:00,Salesforce
+SFACC5859,Shah Enterprises,Technology,Rahul Rao,Hot,CAMP010,13-10-2024 00:00,Salesforce
+SFACC5569,Guptha Services,Retail,Sunil Sharma,Hot,CAMP014,27-03-2025 00:00,Salesforce
+SFACC5157,Malhotra Foods,Healthcare,Prakash Verma,Hot,CAMP021,23-07-2024 00:00,Salesforce
+SFACC5196,Guptha Finance,Healthcare,Divya Chopra,Warm,CAMP048,17-08-2025 00:00,Salesforce
+SFACC5140,Agarwal Technologies,Manufacturing,Rahul Kumar,Hot,CAMP018,11-06-2025 00:00,Salesforce
+SFACC5937,Yadav Logistics,Healthcare,Neha Dubey,Warm,CAMP016,06-03-2026 00:00,Salesforce
+SFACC5525,Kumar Foods,Transportation,Arjun Bajaj,Warm,CAMP014,03-05-2025 00:00,Salesforce
+SFACC5428,Kapoor Textiles,Technology,Ramesh Singh,Warm,CAMP049,22-07-2025 00:00,Salesforce
+SFACC5787,Yadav Logistics,Manufacturing,Rekha Nair,Cold,CAMP015,20-02-2024 00:00,Salesforce
+SFACC5590,Malhotra Retail,Retail,Prakash Srivastava,Hot,CAMP045,08-04-2025 00:00,Salesforce
+SFACC5110,Nair Services,Financial Services,Sachin Patel,Cold,CAMP004,08-09-2025 00:00,Salesforce
+SFACC5373,Mehta Traders,Manufacturing,Kavita Tiwari,Cold,CAMP010,21-11-2024 00:00,Salesforce
+SFACC5347,Reddy Logistics,Healthcare,Shreya Iyer,Warm,CAMP011,03-06-2025 00:00,Salesforce
+SFACC5662,Mishra Textiles,Technology,Karan Rao,Hot,CAMP005,28-12-2024 00:00,Salesforce
+SFACC5886,Desai Healthcare,Technology,Manish Gupta,Hot,CAMP007,06-11-2024 00:00,Salesforce
+SFACC5106,Pandey Services,Retail,Pooja Rao,Hot,CAMP016,02-03-2025 00:00,Salesforce
+SFACC5902,Banerjee Logistics,Retail,Karan Tiwari,Cold,CAMP036,10-03-2024 00:00,Salesforce
+SFACC5683,Joshi Logistics,Financial Services,Suresh Mishra,Warm,CAMP037,23-07-2025 00:00,Salesforce
+SFACC5568,Sharma Foods,Manufacturing,Arjun Sharma,Hot,CAMP025,12-12-2024 00:00,Salesforce
+SFACC5219,Srivastava Enterprises,Retail,Kavita Singh,Hot,CAMP029,11-11-2024 00:00,Salesforce
+SFACC5040,Verma Solutions,Manufacturing,Pooja Kapoor,Hot,CAMP035,25-10-2025 00:00,Salesforce
+SFACC5453,Kumar Finance,Financial Services,Arvind Rao,Warm,CAMP016,02-08-2024 00:00,Salesforce
+SFACC5048,Dubey Textiles,Retail,Shalini Agarwal,Cold,CAMP046,16-12-2025 00:00,Salesforce
+SFACC5559,Yadav Logistics,Financial Services,Anita Verma,Hot,CAMP025,20-08-2024 00:00,Salesforce
+SFACC5873,Tiwari Textiles,Manufacturing,Neha Patel,Cold,CAMP004,14-05-2025 00:00,Salesforce
+SFACC5108,Bajaj Logistics,Retail,Sachin Rao,Cold,CAMP022,26-09-2025 00:00,Salesforce
+SFACC5426,Bajaj Enterprises,Retail,Suresh Patel,Cold,CAMP003,20-08-2025 00:00,Salesforce
+SFACC5329,Rao Consulting,Technology,Karan Banerjee,Warm,CAMP030,09-12-2025 00:00,Salesforce
+SFACC5488,Gupta Industries,Financial Services,Harish Dubey,Warm,CAMP033,05-03-2026 00:00,Salesforce
+SFACC5856,Mishra Foods,Transportation,Vinay Sharma,Warm,CAMP028,28-05-2025 00:00,Salesforce
+SFACC5791,Shah Healthcare,Healthcare,Lakshmi Banerjee,Cold,CAMP049,06-08-2025 00:00,Salesforce
+SFACC5482,Iyer Industries,Retail,Suresh Iyer,Hot,CAMP011,09-10-2024 00:00,Salesforce
+SFACC5763,Banerjee Enterprises,Healthcare,Vikas Bajaj,Hot,CAMP035,17-05-2025 00:00,Salesforce
+SFACC5156,Srivastava Traders,Technology,Neha Nair,Cold,CAMP002,06-02-2026 00:00,Salesforce
+SFACC5704,Verma Healthcare,Healthcare,Manish Yadav,Hot,CAMP008,16-03-2025 00:00,Salesforce
+SFACC5940,Joshi Consulting,Technology,Sunil Verma,Hot,CAMP036,14-04-2024 00:00,Salesforce
+SFACC5546,Yadav Retail,Financial Services,Prakash Patel,Warm,CAMP039,20-03-2024 00:00,Salesforce
+SFACC5443,Agarwal Textiles,Technology,Ajay Srivastava,Warm,CAMP047,08-04-2024 00:00,Salesforce
+SFACC5022,Yadav Finance,Technology,Anjali Kapoor,Cold,CAMP009,16-02-2024 00:00,Salesforce
+SFACC5777,Nair Finance,Transportation,Manish Nair,Cold,CAMP024,08-04-2024 00:00,Salesforce
+SFACC5774,Patel Enterprises,Technology,Alok Shah,Warm,CAMP048,12-02-2026 00:00,Salesforce
+SFACC5824,Malhotra Consulting,Financial Services,Vinod Kumar,Warm,CAMP035,23-10-2025 00:00,Salesforce
+SFACC5881,Bajaj Textiles,Financial Services,Rajiv Rao,Hot,CAMP010,18-02-2026 00:00,Salesforce
+SFACC5502,Mehta Finance,Manufacturing,Sachin Pandey,Warm,CAMP050,03-11-2025 00:00,Salesforce
+SFACC5065,Patil Services,Manufacturing,Arvind Tiwari,Warm,CAMP028,01-03-2025 00:00,Salesforce
+SFACC5361,Kaur Industries,Retail,Arjun Bajaj,Cold,CAMP046,01-05-2024 00:00,Salesforce
+SFACC5700,Srivastava Retail,Transportation,Sneha Agarwal,Hot,CAMP030,11-03-2024 00:00,Salesforce
+SFACC5772,Tiwari Pharmaceuticals,Manufacturing,Shalini Iyer,Cold,CAMP050,19-02-2026 00:00,Salesforce
+SFACC5348,Iyer Industries,Technology,Karan Desai,Hot,CAMP040,26-09-2025 00:00,Salesforce
+SFACC5255,Agarwal Pharmaceuticals,Manufacturing,Shalini Iyer,Hot,CAMP040,07-11-2025 00:00,Salesforce
+SFACC5350,Tiwari Industries,Financial Services,Jane Patel,Warm,CAMP050,22-04-2025 00:00,Salesforce
+SFACC5197,Kumar Consulting,Retail,Ramesh Kapoor,Warm,CAMP042,18-07-2025 00:00,Salesforce
+SFACC5037,Mehta Pharmaceuticals,Financial Services,Manish Pandey,Hot,CAMP041,24-07-2025 00:00,Salesforce
+SFACC5221,Kumar Technologies,Transportation,Shreya Verma,Warm,CAMP037,19-02-2025 00:00,Salesforce
+SFACC5294,Singh Finance,Financial Services,Amit Desai,Warm,CAMP007,18-08-2024 00:00,Salesforce
+SFACC5381,Srivastava Services,Healthcare,Harish Singh,Cold,CAMP035,10-11-2024 00:00,Salesforce
+SFACC5155,Reddy Finance,Manufacturing,Pooja Nair,Warm,CAMP016,10-11-2024 00:00,Salesforce
+SFACC5371,Yadav Textiles,Manufacturing,Sunil Verma,Warm,CAMP047,12-02-2024 00:00,Salesforce
+SFACC5711,Guptha Textiles,Financial Services,Meera Dubey,Warm,CAMP037,08-10-2024 00:00,Salesforce
+SFACC5705,Mehta Technologies,Healthcare,Priya Singh,Cold,CAMP040,24-05-2024 00:00,Salesforce
+SFACC5206,Banerjee Pharmaceuticals,Financial Services,Neha Tiwari,Cold,CAMP019,18-01-2025 00:00,Salesforce
+SFACC5894,Iyer Technologies,Healthcare,Deepak Pandey,Warm,CAMP037,24-03-2026 00:00,Salesforce
+SFACC5647,Pandey Traders,Financial Services,Ramesh Mishra,Warm,CAMP050,08-08-2024 00:00,Salesforce
+SFACC5944,Shah Solutions,Retail,Ravi Chopra,Hot,CAMP013,29-03-2024 00:00,Salesforce
+SFACC5844,Tiwari Consulting,Financial Services,Amit Reddy,Hot,CAMP023,09-06-2025 00:00,Salesforce
+SFACC5540,Verma Consulting,Technology,Neha Mehta,Cold,CAMP050,02-02-2024 00:00,Salesforce
+SFACC5947,Agarwal Healthcare,Retail,Divya Joshi,Warm,CAMP030,14-08-2025 00:00,Salesforce
+SFACC5578,Banerjee Technologies,Manufacturing,Arvind Rao,Warm,CAMP025,17-12-2024 00:00,Salesforce
+SFACC5949,Singh Textiles,Manufacturing,Meena Agarwal,Cold,CAMP045,21-02-2025 00:00,Salesforce
+SFACC5669,Kaur Technologies,Manufacturing,Shalini Joshi,Hot,CAMP030,14-05-2025 00:00,Salesforce
+SFACC5815,Reddy Textiles,Technology,Manish Singh,Hot,CAMP029,07-06-2025 00:00,Salesforce
+SFACC5734,Yadav Consulting,Transportation,Meera Tiwari,Hot,CAMP001,06-01-2024 00:00,Salesforce
+SFACC5344,Sharma Pharmaceuticals,Transportation,Ravi Joshi,Cold,CAMP041,28-02-2024 00:00,Salesforce
+SFACC5220,Guptha Traders,Technology,Kavita Reddy,Hot,CAMP012,10-05-2024 00:00,Salesforce
+SFACC5900,Iyer Enterprises,Manufacturing,Sneha Bajaj,Cold,CAMP007,02-06-2024 00:00,Salesforce
+SFACC5295,Banerjee Textiles,Healthcare,Pooja Tiwari,Hot,CAMP048,15-12-2024 00:00,Salesforce
+SFACC5309,Singh Finance,Healthcare,Deepak Agarwal,Warm,CAMP010,04-07-2024 00:00,Salesforce
+SFACC5076,Agarwal Services,Manufacturing,Ajay Joshi,Hot,CAMP023,18-11-2024 00:00,Salesforce
+SFACC5183,Nair Healthcare,Technology,Sanjay Patil,Cold,CAMP027,02-06-2025 00:00,Salesforce
+SFACC5821,Gupta Traders,Transportation,Alok Joshi,Cold,CAMP019,19-07-2024 00:00,Salesforce
+SFACC5667,Dubey Consulting,Retail,Ajay Rao,Hot,CAMP003,02-11-2025 00:00,Salesforce
+SFACC5365,Guptha Solutions,Healthcare,Jane Desai,Warm,CAMP041,08-12-2025 00:00,Salesforce
+SFACC5119,Yadav Solutions,Manufacturing,Ravi Iyer,Warm,CAMP015,02-07-2024 00:00,Salesforce
+SFACC5529,Bajaj Retail,Technology,Karan Gupta,Cold,CAMP030,09-01-2025 00:00,Salesforce
+SFACC5230,Rao Enterprises,Manufacturing,Shalini Kumar,Hot,CAMP044,23-06-2024 00:00,Salesforce
+SFACC5876,Gupta Healthcare,Technology,Priya Singh,Hot,CAMP001,31-05-2024 00:00,Salesforce
+SFACC5950,Srivastava Traders,Retail,Sneha Desai,Cold,CAMP035,15-12-2024 00:00,Salesforce
+SFACC5643,Banerjee Finance,Financial Services,Prakash Rao,Warm,CAMP017,24-11-2024 00:00,Salesforce
+SFACC5728,Banerjee Technologies,Transportation,Rahul Banerjee,Cold,CAMP042,20-11-2025 00:00,Salesforce
+SFACC5703,Banerjee Traders,Healthcare,Rekha Gupta,Warm,CAMP014,17-09-2025 00:00,Salesforce
+SFACC5081,Iyer Textiles,Retail,Sneha Iyer,Hot,CAMP023,26-11-2024 00:00,Salesforce
+SFACC5865,Nair Solutions,Healthcare,Kavita Yadav,Cold,CAMP021,05-02-2024 00:00,Salesforce
+SFACC5083,Guptha Industries,Manufacturing,Rekha Pandey,Hot,CAMP011,11-12-2024 00:00,Salesforce
+SFACC5808,Mehta Pharmaceuticals,Retail,Sachin Agarwal,Cold,CAMP050,16-05-2024 00:00,Salesforce
+SFACC5060,Kapoor Consulting,Transportation,Suresh Joshi,Hot,CAMP008,25-12-2024 00:00,Salesforce
+SFACC5465,Malhotra Technologies,Healthcare,Seema Nair,Warm,CAMP006,17-11-2025 00:00,Salesforce
+SFACC5783,Kaur Solutions,Healthcare,Rekha Yadav,Cold,CAMP023,08-04-2024 00:00,Salesforce
+SFACC5434,Menon Logistics,Financial Services,Seema Mishra,Hot,CAMP022,26-02-2025 00:00,Salesforce
+SFACC5418,Pandey Services,Transportation,Vinod Gupta,Warm,CAMP023,27-04-2024 00:00,Salesforce
+SFACC5503,Joshi Enterprises,Healthcare,Rahul Banerjee,Cold,CAMP022,14-11-2025 00:00,Salesforce
+SFACC5835,Rao Finance,Financial Services,Sanjay Kaur,Hot,CAMP043,10-03-2025 00:00,Salesforce
+SFACC5713,Gupta Textiles,Healthcare,Priya Kumar,Cold,CAMP035,21-11-2024 00:00,Salesforce
+SFACC5549,Shah Pharmaceuticals,Transportation,Jane Desai,Cold,CAMP038,05-10-2025 00:00,Salesforce
+SFACC5497,Bajaj Logistics,Financial Services,Sunil Kaur,Hot,CAMP015,22-02-2025 00:00,Salesforce
+SFACC5447,Srivastava Solutions,Technology,Meera Kaur,Warm,CAMP033,07-11-2025 00:00,Salesforce
+SFACC5342,Joshi Enterprises,Technology,Manish Rao,Cold,CAMP047,05-10-2024 00:00,Salesforce
+SFACC5633,Gupta Finance,Financial Services,Deepak Mishra,Warm,CAMP032,07-05-2024 00:00,Salesforce
+SFACC5846,Desai Enterprises,Technology,Rahul Sharma,Hot,CAMP022,08-02-2024 00:00,Salesforce
+SFACC5528,Iyer Healthcare,Retail,Prakash Kapoor,Hot,CAMP007,01-01-2024 00:00,Salesforce
+SFACC5167,Joshi Traders,Retail,Ajay Chopra,Cold,CAMP031,20-10-2025 00:00,Salesforce
+SFACC5931,Mishra Technologies,Transportation,Sachin Chopra,Warm,CAMP040,30-12-2025 00:00,Salesforce
+SFACC5323,Chopra Traders,Financial Services,Amit Bajaj,Cold,CAMP038,13-01-2026 00:00,Salesforce
+SFACC5743,Mehta Finance,Financial Services,Ajay Banerjee,Hot,CAMP022,11-05-2024 00:00,Salesforce
+SFACC5408,Desai Healthcare,Financial Services,Vikas Patil,Warm,CAMP036,19-12-2024 00:00,Salesforce
+SFACC5364,Agarwal Finance,Manufacturing,Sneha Sharma,Warm,CAMP002,07-03-2026 00:00,Salesforce
+SFACC5766,Dubey Services,Manufacturing,Harish Verma,Hot,CAMP028,12-01-2025 00:00,Salesforce
+SFACC5456,Nair Solutions,Manufacturing,Vinod Singh,Cold,CAMP042,08-04-2025 00:00,Salesforce
+SFACC5768,Pandey Textiles,Retail,Sanjay Banerjee,Warm,CAMP049,09-06-2024 00:00,Salesforce
+SFACC5278,Tiwari Traders,Healthcare,Vikas Kaur,Hot,CAMP044,21-02-2025 00:00,Salesforce
+SFACC5611,Joshi Textiles,Manufacturing,Suresh Agarwal,Hot,CAMP003,17-01-2024 00:00,Salesforce
+SFACC5181,Kumar Healthcare,Retail,Arjun Kumar,Hot,CAMP029,08-12-2025 00:00,Salesforce
+SFACC5330,Nair Industries,Transportation,Neha Dubey,Hot,CAMP028,12-01-2024 00:00,Salesforce
+SFACC5498,Singh Traders,Manufacturing,Divya Desai,Hot,CAMP041,08-12-2024 00:00,Salesforce
+SFACC5286,Menon Foods,Technology,Shreya Verma,Hot,CAMP026,10-01-2026 00:00,Salesforce
+SFACC5495,Srivastava Technologies,Retail,Vinay Kaur,Cold,CAMP043,29-04-2025 00:00,Salesforce
+SFACC5738,Rao Retail,Financial Services,Priya Tiwari,Cold,CAMP015,26-07-2025 00:00,Salesforce
+SFACC5066,Desai Finance,Healthcare,Meena Banerjee,Cold,CAMP043,10-02-2025 00:00,Salesforce
+SFACC5411,Menon Pharmaceuticals,Retail,Vinod Mehta,Hot,CAMP024,17-04-2024 00:00,Salesforce
+SFACC5160,Chopra Healthcare,Transportation,Arvind Banerjee,Hot,CAMP022,01-04-2025 00:00,Salesforce
+SFACC5722,Agarwal Pharmaceuticals,Retail,Sanjay Guptha,Hot,CAMP042,27-10-2024 00:00,Salesforce
+SFACC5579,Srivastava Foods,Financial Services,Harish Srivastava,Warm,CAMP012,04-04-2024 00:00,Salesforce
+SFACC5769,Banerjee Services,Transportation,Vinay Srivastava,Cold,CAMP004,29-08-2024 00:00,Salesforce
+SFACC5377,Sharma Logistics,Retail,Shreya Patil,Hot,CAMP016,08-05-2025 00:00,Salesforce
+SFACC5308,Banerjee Traders,Transportation,Sachin Dubey,Hot,CAMP008,24-05-2025 00:00,Salesforce
+SFACC5587,Mehta Logistics,Healthcare,Lakshmi Verma,Warm,CAMP011,09-10-2025 00:00,Salesforce
+SFACC5327,Joshi Foods,Financial Services,Rekha Sharma,Hot,CAMP007,05-11-2024 00:00,Salesforce
+SFACC5612,Patel Solutions,Transportation,Amit Mishra,Warm,CAMP019,22-02-2024 00:00,Salesforce
+SFACC5726,Patil Retail,Transportation,John Kapoor,Warm,CAMP004,09-04-2025 00:00,Salesforce
+SFACC5551,Agarwal Retail,Financial Services,Vikas Kapoor,Warm,CAMP007,12-03-2025 00:00,Salesforce
+SFACC5502,Mehta Finance,Manufacturing,Sachin Pandey,Warm,CAMP050,03-11-2025 00:00,Salesforce
+SFACC5631,Desai Finance,Technology,Rajiv Srivastava,Warm,CAMP042,24-02-2026 00:00,Salesforce
+SFACC5624,Mehta Logistics,Manufacturing,Kavita Guptha,Cold,CAMP025,20-09-2024 00:00,Salesforce
+SFACC5474,Bajaj Foods,Retail,Ajay Menon,Warm,CAMP038,26-12-2025 00:00,Salesforce
+SFACC5142,Iyer Solutions,Retail,Ajay Malhotra,Cold,CAMP007,09-01-2024 00:00,Salesforce
+SFACC5209,Dubey Finance,Manufacturing,Prakash Gupta,Hot,CAMP022,10-10-2024 00:00,Salesforce
+SFACC5266,Nair Industries,Transportation,Lakshmi Bajaj,Warm,CAMP024,26-11-2025 00:00,Salesforce
+SFACC5534,Verma Traders,Financial Services,Vinod Patel,Hot,CAMP032,28-12-2025 00:00,Salesforce
+SFACC5917,Rao Technologies,Technology,Anjali Tiwari,Warm,CAMP028,11-03-2026 00:00,Salesforce
+SFACC5172,Joshi Logistics,Transportation,Harish Rao,Hot,CAMP047,16-01-2025 00:00,Salesforce
+SFACC5831,Reddy Industries,Technology,Anjali Bajaj,Hot,CAMP010,26-06-2024 00:00,Salesforce
+SFACC5784,Dubey Solutions,Healthcare,Anjali Chopra,Cold,CAMP014,16-05-2024 00:00,Salesforce
+SFACC5589,Agarwal Logistics,Transportation,Suresh Yadav,Cold,CAMP017,22-08-2025 00:00,Salesforce
+SFACC5662,Mishra Textiles,Technology,Karan Rao,Hot,CAMP005,28-12-2024 00:00,Salesforce
+SFACC5553,Joshi Technologies,Technology,Jane Verma,Warm,CAMP029,03-02-2025 00:00,Salesforce
+SFACC5131,Reddy Solutions,Healthcare,Vinay Yadav,Cold,CAMP038,26-05-2024 00:00,Salesforce
+SFACC5423,Joshi Textiles,Technology,Suresh Agarwal,Hot,CAMP014,07-08-2024 00:00,Salesforce
+SFACC5044,Singh Finance,Financial Services,Rajiv Kaur,Cold,CAMP033,13-02-2026 00:00,Salesforce
+SFACC5042,Bajaj Solutions,Transportation,Vikas Kaur,Warm,CAMP024,01-02-2025 00:00,Salesforce
+SFACC5439,Banerjee Traders,Transportation,Neha Rao,Warm,CAMP001,28-03-2026 00:00,Salesforce
+SFACC5178,Shah Enterprises,Retail,Ajay Banerjee,Cold,CAMP030,13-02-2025 00:00,Salesforce
+SFACC5296,Dubey Traders,Healthcare,Deepak Gupta,Cold,CAMP026,08-02-2025 00:00,Salesforce
+SFACC5370,Dubey Finance,Manufacturing,Sachin Patel,Warm,CAMP011,30-03-2026 00:00,Salesforce
+SFACC5715,Patil Enterprises,Healthcare,Vinay Nair,Hot,CAMP046,08-09-2024 00:00,Salesforce
+SFACC5765,Guptha Healthcare,Healthcare,Suresh Gupta,Cold,CAMP045,06-03-2026 00:00,Salesforce
+SFACC5657,Sharma Consulting,Transportation,Sunita Pandey,Cold,CAMP024,06-11-2024 00:00,Salesforce
+SFACC5898,Mishra Traders,Financial Services,Rajiv Singh,Warm,CAMP004,04-01-2025 00:00,Salesforce
+SFACC5735,Malhotra Solutions,Technology,Arvind Chopra,Hot,CAMP033,14-05-2025 00:00,Salesforce
+SFACC5318,Kumar Enterprises,Transportation,Neha Kaur,Hot,CAMP039,20-11-2025 00:00,Salesforce
+SFACC5430,Banerjee Textiles,Financial Services,Arjun Agarwal,Warm,CAMP043,27-11-2024 00:00,Salesforce
+SFACC5376,Srivastava Solutions,Transportation,Sanjay Verma,Hot,CAMP040,08-08-2025 00:00,Salesforce
+SFACC5796,Mishra Services,Technology,Kavita Rao,Warm,CAMP020,08-10-2025 00:00,Salesforce
+SFACC5205,Kapoor Solutions,Technology,Prakash Patil,Warm,CAMP029,19-04-2025 00:00,Salesforce
+SFACC5719,Yadav Healthcare,Financial Services,Sanjay Guptha,Cold,CAMP029,21-03-2024 00:00,Salesforce
+SFACC5759,Gupta Retail,Financial Services,Ravi Srivastava,Warm,CAMP031,13-10-2024 00:00,Salesforce
+SFACC5782,Kumar Solutions,Financial Services,Neha Banerjee,Hot,CAMP025,26-08-2025 00:00,Salesforce
+SFACC5623,Yadav Consulting,Transportation,Priya Kumar,Hot,CAMP012,26-07-2025 00:00,Salesforce
+SFACC5892,Rao Solutions,Manufacturing,Sunita Srivastava,Hot,CAMP034,11-05-2025 00:00,Salesforce
+SFACC5094,Mishra Technologies,Transportation,Vikas Mehta,Cold,CAMP002,08-10-2024 00:00,Salesforce
+SFACC5298,Srivastava Traders,Healthcare,Ramesh Bajaj,Hot,CAMP030,07-06-2024 00:00,Salesforce
+SFACC5397,Bajaj Consulting,Transportation,John Joshi,Cold,CAMP012,19-06-2025 00:00,Salesforce
+SFACC5118,Tiwari Textiles,Manufacturing,Rajiv Dubey,Hot,CAMP024,20-07-2024 00:00,Salesforce
+SFACC5249,Guptha Enterprises,Retail,Sachin Nair,Warm,CAMP041,14-11-2024 00:00,Salesforce
+SFACC5716,Desai Healthcare,Healthcare,Sunita Kaur,Warm,CAMP048,05-05-2024 00:00,Salesforce
+SFACC5671,Mehta Pharmaceuticals,Healthcare,Vikas Joshi,Warm,CAMP041,12-07-2024 00:00,Salesforce
+SFACC5265,Chopra Finance,Manufacturing,John Kaur,Cold,CAMP029,04-12-2024 00:00,Salesforce
+SFACC5092,Tiwari Retail,Manufacturing,Arjun Srivastava,Hot,CAMP043,17-02-2025 00:00,Salesforce
+SFACC5322,Tiwari Traders,Healthcare,Sunita Chopra,Cold,CAMP010,03-02-2024 00:00,Salesforce
+SFACC5718,Sharma Textiles,Manufacturing,Manish Pandey,Hot,CAMP045,04-03-2024 00:00,Salesforce
+SFACC5012,Reddy Textiles,Manufacturing,Neha Patel,Hot,CAMP039,29-12-2025 00:00,Salesforce
+SFACC5262,Agarwal Retail,Retail,Arvind Pandey,Hot,CAMP012,21-12-2024 00:00,Salesforce
+SFACC5908,Nair Services,Manufacturing,Alok Mishra,Warm,CAMP001,09-04-2024 00:00,Salesforce
+SFACC5161,Kumar Technologies,Healthcare,Prakash Desai,Cold,CAMP032,08-07-2024 00:00,Salesforce
+SFACC5470,Mehta Textiles,Financial Services,Ajay Srivastava,Cold,CAMP008,18-01-2025 00:00,Salesforce
+SFACC5724,Kaur Healthcare,Technology,Sachin Nair,Warm,CAMP015,15-03-2026 00:00,Salesforce
+SFACC5638,Bajaj Healthcare,Financial Services,Rajiv Agarwal,Hot,CAMP003,02-11-2024 00:00,Salesforce
+SFACC5576,Patel Services,Healthcare,Lakshmi Kumar,Warm,CAMP003,12-12-2025 00:00,Salesforce
+SFACC5851,Joshi Traders,Financial Services,Ramesh Bajaj,Cold,CAMP047,25-12-2024 00:00,Salesforce
+SFACC5027,Kumar Finance,Technology,Ramesh Nair,Warm,CAMP031,14-10-2024 00:00,Salesforce
+SFACC5733,Tiwari Textiles,Financial Services,Shalini Iyer,Warm,CAMP033,03-08-2024 00:00,Salesforce
+SFACC5064,Kumar Finance,Manufacturing,Prakash Iyer,Cold,CAMP041,08-08-2024 00:00,Salesforce
+SFACC5330,Nair Industries,Transportation,Neha Dubey,Hot,CAMP028,12-01-2024 00:00,Salesforce
+SFACC5649,Verma Consulting,Healthcare,Manish Gupta,Cold,CAMP041,23-10-2024 00:00,Salesforce
+SFACC5822,Menon Healthcare,Financial Services,Rajiv Patil,Cold,CAMP032,27-05-2025 00:00,Salesforce
+SFACC5431,Guptha Technologies,Retail,Prakash Agarwal,Hot,CAMP036,20-02-2025 00:00,Salesforce
+SFACC5149,Patil Technologies,Financial Services,Shalini Singh,Warm,CAMP048,17-12-2024 00:00,Salesforce
+SFACC5304,Nair Technologies,Healthcare,Seema Kapoor,Hot,CAMP009,21-07-2024 00:00,Salesforce
+SFACC5445,Rao Traders,Healthcare,Meera Malhotra,Cold,CAMP022,09-10-2024 00:00,Salesforce
+SFACC5602,Yadav Textiles,Retail,Neha Joshi,Hot,CAMP040,08-05-2025 00:00,Salesforce
+SFACC5850,Bajaj Foods,Transportation,Shalini Bajaj,Hot,CAMP043,20-07-2024 00:00,Salesforce
+SFACC5356,Sharma Consulting,Manufacturing,Alok Bajaj,Warm,CAMP043,04-08-2025 00:00,Salesforce
+SFACC5675,Dubey Foods,Financial Services,Ravi Kaur,Warm,CAMP006,09-10-2024 00:00,Salesforce
+SFACC5694,Guptha Healthcare,Manufacturing,Prakash Malhotra,Hot,CAMP023,10-06-2024 00:00,Salesforce
+SFACC5200,Shah Technologies,Technology,Arjun Verma,Cold,CAMP032,23-09-2024 00:00,Salesforce
+SFACC5481,Guptha Healthcare,Technology,Priya Rao,Warm,CAMP040,29-11-2024 00:00,Salesforce
+SFACC5379,Patil Consulting,Retail,John Agarwal,Warm,CAMP025,11-07-2025 00:00,Salesforce
+SFACC5313,Iyer Industries,Transportation,Shalini Kapoor,Warm,CAMP007,02-02-2024 00:00,Salesforce
+SFACC5788,Mehta Finance,Manufacturing,Meera Bajaj,Hot,CAMP018,12-02-2026 00:00,Salesforce
+SFACC5195,Iyer Textiles,Technology,Arjun Mehta,Cold,CAMP020,13-12-2024 00:00,Salesforce
+SFACC5884,Bajaj Logistics,Financial Services,Karan Srivastava,Hot,CAMP038,08-11-2025 00:00,Salesforce
+SFACC5577,Dubey Consulting,Financial Services,Pooja Joshi,Cold,CAMP032,15-08-2024 00:00,Salesforce
+SFACC5215,Mishra Retail,Retail,Rekha Tiwari,Warm,CAMP029,08-12-2025 00:00,Salesforce
+SFACC5353,Patil Textiles,Technology,Sunil Agarwal,Warm,CAMP026,29-06-2024 00:00,Salesforce
+SFACC5780,Guptha Logistics,Transportation,Prakash Patel,Cold,CAMP038,03-05-2025 00:00,Salesforce
+SFACC5054,Patil Solutions,Transportation,Seema Patel,Cold,CAMP016,16-07-2025 00:00,Salesforce
+SFACC5211,Yadav Enterprises,Manufacturing,Deepak Patel,Warm,CAMP029,19-10-2025 00:00,Salesforce
+SFACC5604,Banerjee Pharmaceuticals,Retail,Shreya Iyer,Cold,CAMP001,31-01-2025 00:00,Salesforce
+SFACC5812,Srivastava Textiles,Healthcare,Priya Patel,Cold,CAMP041,22-11-2024 00:00,Salesforce
+SFACC5375,Sharma Technologies,Manufacturing,Seema Patil,Cold,CAMP006,07-11-2024 00:00,Salesforce
+SFACC5935,Kumar Technologies,Manufacturing,Meena Kapoor,Warm,CAMP024,28-02-2025 00:00,Salesforce
+SFACC5776,Bajaj Technologies,Technology,Ajay Pandey,Hot,CAMP043,12-01-2024 00:00,Salesforce
+SFACC5429,Banerjee Finance,Financial Services,Rekha Sharma,Warm,CAMP035,14-03-2025 00:00,Salesforce
+SFACC5169,Mishra Pharmaceuticals,Technology,Rohit Kumar,Warm,CAMP021,04-03-2026 00:00,Salesforce
+SFACC5145,Bajaj Traders,Healthcare,Alok Rao,Cold,CAMP049,09-12-2025 00:00,Salesforce
+SFACC5336,Shah Finance,Manufacturing,Kavita Dubey,Cold,CAMP028,22-06-2024 00:00,Salesforce
+SFACC5216,Shah Logistics,Retail,Ajay Verma,Warm,CAMP042,03-10-2025 00:00,Salesforce
+SFACC5366,Yadav Technologies,Technology,Deepak Bajaj,Warm,CAMP017,17-04-2025 00:00,Salesforce
+SFACC5240,Chopra Enterprises,Transportation,Neha Desai,Hot,CAMP006,12-05-2025 00:00,Salesforce
+SFACC5476,Srivastava Healthcare,Financial Services,Vinod Verma,Warm,CAMP041,07-11-2025 00:00,Salesforce
+SFACC5267,Desai Solutions,Retail,Prakash Desai,Warm,CAMP034,16-06-2025 00:00,Salesforce
+SFACC5050,Singh Enterprises,Financial Services,Deepak Nair,Hot,CAMP029,04-03-2024 00:00,Salesforce
+SFACC5600,Iyer Services,Technology,Shreya Sharma,Hot,CAMP037,05-01-2026 00:00,Salesforce
+SFACC5340,Pandey Traders,Healthcare,Meena Patel,Warm,CAMP023,09-09-2024 00:00,Salesforce
+SFACC5046,Malhotra Finance,Healthcare,Harish Nair,Hot,CAMP012,03-12-2025 00:00,Salesforce
+SFACC5396,Kumar Industries,Financial Services,Alok Malhotra,Cold,CAMP044,12-07-2024 00:00,Salesforce
+SFACC5665,Iyer Foods,Transportation,Arvind Nair,Cold,CAMP024,24-01-2024 00:00,Salesforce
+SFACC5150,Malhotra Textiles,Manufacturing,Ajay Bajaj,Hot,CAMP008,01-02-2025 00:00,Salesforce
+SFACC5213,Kumar Pharmaceuticals,Technology,Anjali Menon,Hot,CAMP050,25-09-2024 00:00,Salesforce
+SFACC5269,Joshi Technologies,Financial Services,Harish Malhotra,Hot,CAMP047,18-07-2024 00:00,Salesforce
+SFACC5061,Kapoor Healthcare,Transportation,Sanjay Chopra,Cold,CAMP006,15-12-2024 00:00,Salesforce
+SFACC5332,Agarwal Industries,Technology,Harish Nair,Warm,CAMP045,22-09-2024 00:00,Salesforce
+SFACC5231,Tiwari Textiles,Transportation,Vinay Chopra,Warm,CAMP048,04-02-2024 00:00,Salesforce
+SFACC5904,Kapoor Industries,Financial Services,John Joshi,Hot,CAMP032,18-10-2025 00:00,Salesforce
+SFACC5228,Guptha Consulting,Retail,Meena Malhotra,Cold,CAMP034,16-09-2024 00:00,Salesforce
+SFACC5509,Guptha Foods,Transportation,Seema Verma,Hot,CAMP023,28-10-2024 00:00,Salesforce
+SFACC5801,Bajaj Technologies,Retail,Ravi Tiwari,Hot,CAMP050,31-01-2024 00:00,Salesforce
+SFACC5212,Joshi Solutions,Healthcare,Shreya Pandey,Warm,CAMP022,03-08-2024 00:00,Salesforce
+SFACC5171,Gupta Services,Transportation,Arjun Mishra,Cold,CAMP049,23-04-2024 00:00,Salesforce
+SFACC5188,Singh Retail,Manufacturing,Ajay Iyer,Warm,CAMP015,05-08-2024 00:00,Salesforce
+SFACC5468,Yadav Logistics,Financial Services,Meera Singh,Warm,CAMP035,12-06-2024 00:00,Salesforce
+SFACC5828,Sharma Logistics,Healthcare,Ramesh Agarwal,Warm,CAMP035,11-01-2025 00:00,Salesforce
+SFACC5143,Malhotra Logistics,Technology,Seema Joshi,Warm,CAMP021,11-09-2024 00:00,Salesforce
+SFACC5732,Desai Solutions,Retail,Shalini Kumar,Hot,CAMP044,09-02-2026 00:00,Salesforce
+SFACC5245,Agarwal Logistics,Manufacturing,Ramesh Kapoor,Warm,CAMP019,25-03-2026 00:00,Salesforce
+SFACC5860,Agarwal Pharmaceuticals,Technology,Sneha Patil,Warm,CAMP023,21-04-2024 00:00,Salesforce
+SFACC5654,Desai Healthcare,Technology,Sneha Chopra,Hot,CAMP020,19-03-2026 00:00,Salesforce
+SFACC5100,Mehta Enterprises,Financial Services,Ramesh Reddy,Cold,CAMP033,15-07-2024 00:00,Salesforce
+SFACC5182,Joshi Foods,Financial Services,Manish Yadav,Warm,CAMP029,20-06-2024 00:00,Salesforce
+SFACC5030,Srivastava Consulting,Healthcare,Alok Reddy,Hot,CAMP045,27-09-2024 00:00,Salesforce
+SFACC5055,Verma Services,Technology,Meera Joshi,Warm,CAMP004,08-06-2024 00:00,Salesforce
+SFACC5217,Dubey Services,Manufacturing,Suresh Gupta,Warm,CAMP031,22-10-2024 00:00,Salesforce
+SFACC5237,Kumar Consulting,Healthcare,Neha Iyer,Hot,CAMP030,13-04-2025 00:00,Salesforce
+SFACC5491,Patil Consulting,Healthcare,Anjali Menon,Hot,CAMP033,28-10-2024 00:00,Salesforce
+SFACC5526,Shah Services,Transportation,Shreya Malhotra,Hot,CAMP011,28-08-2024 00:00,Salesforce
+SFACC5086,Shah Healthcare,Manufacturing,Sanjay Agarwal,Cold,CAMP031,02-01-2024 00:00,Salesforce
+SFACC5524,Dubey Services,Transportation,Rekha Kaur,Hot,CAMP003,31-03-2025 00:00,Salesforce
+SFACC5049,Malhotra Consulting,Healthcare,Pooja Patel,Hot,CAMP005,29-07-2025 00:00,Salesforce
+SFACC5630,Gupta Enterprises,Transportation,Karan Shah,Warm,CAMP040,02-12-2024 00:00,Salesforce
+SFACC5625,Bajaj Foods,Retail,Ajay Bajaj,Cold,CAMP041,30-01-2025 00:00,Salesforce
+SFACC5691,Bajaj Enterprises,Manufacturing,Harish Bajaj,Hot,CAMP048,18-11-2025 00:00,Salesforce
+SFACC5128,Dubey Solutions,Retail,Anjali Patel,Hot,CAMP005,03-06-2025 00:00,Salesforce
+SFACC5629,Reddy Solutions,Technology,Priya Dubey,Warm,CAMP017,13-10-2025 00:00,Salesforce
+SFACC5883,Singh Foods,Healthcare,Rohit Dubey,Hot,CAMP023,09-01-2025 00:00,Salesforce
+SFACC5367,Bajaj Services,Technology,Manish Nair,Hot,CAMP029,19-03-2026 00:00,Salesforce
+SFACC5268,Banerjee Technologies,Transportation,Harish Banerjee,Cold,CAMP036,09-08-2024 00:00,Salesforce
+SFACC5003,Malhotra Industries,Retail,Amit Guptha,Hot,CAMP011,24-04-2024 00:00,Salesforce
+SFACC5688,Iyer Foods,Healthcare,Alok Sharma,Cold,CAMP003,08-01-2026 00:00,Salesforce
+SFACC5387,Srivastava Solutions,Technology,Lakshmi Guptha,Hot,CAMP019,05-01-2026 00:00,Salesforce
+SFACC5115,Pandey Solutions,Technology,Ravi Srivastava,Cold,CAMP027,19-01-2024 00:00,Salesforce
+SFACC5679,Guptha Industries,Transportation,Divya Dubey,Warm,CAMP020,26-12-2025 00:00,Salesforce
+SFACC5023,Sharma Services,Healthcare,Pooja Patel,Hot,CAMP042,29-12-2025 00:00,Salesforce
+SFACC5242,Reddy Consulting,Financial Services,Ramesh Srivastava,Hot,CAMP008,16-04-2024 00:00,Salesforce
+SFACC5004,Nair Enterprises,Manufacturing,Manish Agarwal,Cold,CAMP039,22-02-2025 00:00,Salesforce
+SFACC5349,Reddy Healthcare,Retail,Manish Agarwal,Hot,CAMP023,02-07-2025 00:00,Salesforce
+SFACC5257,Pandey Services,Technology,Sunita Singh,Hot,CAMP029,10-07-2024 00:00,Salesforce
+SFACC5366,Yadav Technologies,Technology,Deepak Bajaj,Warm,CAMP017,17-04-2025 00:00,Salesforce
+SFACC5395,Patel Logistics,Technology,John Kapoor,Warm,CAMP028,13-11-2024 00:00,Salesforce
+SFACC5741,Banerjee Enterprises,Manufacturing,Jane Kapoor,Hot,CAMP033,02-02-2024 00:00,Salesforce
+SFACC5930,Chopra Enterprises,Healthcare,Sunil Malhotra,Warm,CAMP030,07-07-2025 00:00,Salesforce
+SFACC5807,Mehta Solutions,Financial Services,Neha Guptha,Hot,CAMP007,05-02-2024 00:00,Salesforce
+SFACC5018,Gupta Industries,Technology,Alok Yadav,Cold,CAMP034,01-06-2024 00:00,Salesforce
+SFACC5467,Yadav Services,Financial Services,Anita Verma,Hot,CAMP025,07-09-2025 00:00,Salesforce
+SFACC5033,Singh Textiles,Manufacturing,Pooja Shah,Warm,CAMP026,31-01-2024 00:00,Salesforce
+SFACC5619,Guptha Technologies,Manufacturing,Sachin Dubey,Hot,CAMP049,13-07-2025 00:00,Salesforce
+SFACC5609,Kapoor Pharmaceuticals,Healthcare,Shreya Chopra,Hot,CAMP031,09-08-2024 00:00,Salesforce
+SFACC5843,Pandey Textiles,Financial Services,Karan Kapoor,Cold,CAMP014,18-07-2025 00:00,Salesforce
+SFACC5024,Reddy Textiles,Transportation,Shreya Kapoor,Warm,CAMP022,08-12-2024 00:00,Salesforce
+SFACC5922,Chopra Healthcare,Manufacturing,Rohit Srivastava,Warm,CAMP024,15-06-2024 00:00,Salesforce
+SFACC5201,Verma Traders,Retail,Divya Patel,Warm,CAMP015,28-03-2025 00:00,Salesforce
+SFACC5174,Rao Industries,Technology,Anjali Menon,Hot,CAMP019,10-03-2025 00:00,Salesforce
+SFACC5731,Nair Consulting,Retail,Ramesh Mehta,Warm,CAMP018,19-04-2024 00:00,Salesforce
+SFACC5480,Mishra Consulting,Healthcare,Karan Kumar,Cold,CAMP046,28-11-2025 00:00,Salesforce
+SFACC5914,Patel Finance,Transportation,Sachin Bajaj,Warm,CAMP015,17-04-2025 00:00,Salesforce
+SFACC5144,Mehta Logistics,Retail,Vikas Nair,Warm,CAMP006,05-10-2024 00:00,Salesforce
+SFACC5543,Malhotra Retail,Healthcare,Sunil Menon,Cold,CAMP032,22-02-2026 00:00,Salesforce
+SFACC5319,Nair Healthcare,Technology,Arvind Srivastava,Warm,CAMP017,01-04-2025 00:00,Salesforce
+SFACC5554,Malhotra Services,Technology,Shreya Rao,Hot,CAMP007,02-02-2025 00:00,Salesforce
+SFACC5848,Chopra Pharmaceuticals,Technology,Harish Agarwal,Cold,CAMP041,03-01-2025 00:00,Salesforce
+SFACC5392,Malhotra Industries,Healthcare,Karan Rao,Hot,CAMP035,03-03-2024 00:00,Salesforce
+SFACC5946,Pandey Industries,Transportation,Manish Rao,Hot,CAMP011,11-05-2025 00:00,Salesforce
+SFACC5532,Sharma Consulting,Financial Services,Sneha Reddy,Cold,CAMP046,06-12-2025 00:00,Salesforce
+SFACC5533,Patil Solutions,Manufacturing,Seema Reddy,Cold,CAMP008,12-04-2024 00:00,Salesforce
+SFACC5248,Verma Services,Manufacturing,Sunita Shah,Cold,CAMP011,04-03-2025 00:00,Salesforce
+SFACC5264,Joshi Traders,Technology,Amit Patel,Hot,CAMP039,25-05-2024 00:00,Salesforce
+SFACC5548,Singh Traders,Retail,Rekha Agarwal,Warm,CAMP042,30-09-2025 00:00,Salesforce
+SFACC5051,Kaur Retail,Financial Services,Alok Dubey,Warm,CAMP047,30-05-2024 00:00,Salesforce
+SFACC5530,Bajaj Retail,Technology,John Malhotra,Warm,CAMP015,11-06-2024 00:00,Salesforce
+SFACC5890,Gupta Foods,Manufacturing,Manish Tiwari,Warm,CAMP001,23-12-2024 00:00,Salesforce
+SFACC5866,Mehta Retail,Healthcare,Rajiv Kapoor,Cold,CAMP020,20-08-2024 00:00,Salesforce
+SFACC5080,Rao Consulting,Transportation,Meena Iyer,Warm,CAMP021,06-09-2024 00:00,Salesforce
+SFACC5744,Kaur Traders,Financial Services,Karan Patel,Hot,CAMP026,22-03-2025 00:00,Salesforce
+SFACC5437,Nair Textiles,Manufacturing,Arjun Patil,Cold,CAMP041,03-02-2025 00:00,Salesforce
+SFACC5404,Mishra Consulting,Manufacturing,Harish Tiwari,Hot,CAMP025,05-01-2026 00:00,Salesforce
+SFACC5610,Yadav Foods,Technology,Sachin Banerjee,Warm,CAMP023,16-09-2025 00:00,Salesforce
+SFACC5180,Desai Logistics,Transportation,Sanjay Patil,Cold,CAMP038,22-03-2025 00:00,Salesforce
+SFACC5479,Patil Retail,Transportation,Lakshmi Srivastava,Hot,CAMP008,28-07-2025 00:00,Salesforce
+SFACC5893,Patil Consulting,Financial Services,Neha Shah,Cold,CAMP008,06-03-2024 00:00,Salesforce
+SFACC5038,Agarwal Textiles,Retail,Lakshmi Agarwal,Warm,CAMP001,17-05-2024 00:00,Salesforce
+SFACC5563,Mehta Textiles,Technology,Priya Shah,Hot,CAMP029,26-01-2024 00:00,Salesforce
+SFACC5393,Dubey Healthcare,Financial Services,Kavita Bajaj,Cold,CAMP016,12-02-2025 00:00,Salesforce
+SFACC5489,Banerjee Finance,Financial Services,Sneha Rao,Warm,CAMP031,24-04-2024 00:00,Salesforce
+SFACC5879,Dubey Retail,Healthcare,Vikas Kaur,Hot,CAMP021,20-04-2024 00:00,Salesforce
+SFACC5942,Rao Retail,Healthcare,Rohit Mishra,Warm,CAMP007,15-11-2024 00:00,Salesforce
+SFACC5556,Nair Services,Transportation,Anjali Iyer,Cold,CAMP023,27-04-2025 00:00,Salesforce
+SFACC5194,Bajaj Retail,Transportation,Jane Bajaj,Hot,CAMP012,15-02-2025 00:00,Salesforce
+SFACC5794,Reddy Textiles,Financial Services,Meera Iyer,Warm,CAMP026,12-03-2024 00:00,Salesforce
+SFACC5545,Agarwal Industries,Technology,Anjali Bajaj,Hot,CAMP011,09-01-2025 00:00,Salesforce
+SFACC5335,Singh Pharmaceuticals,Technology,Rahul Patel,Cold,CAMP028,02-04-2025 00:00,Salesforce
+SFACC5928,Srivastava Enterprises,Technology,John Bajaj,Cold,CAMP008,01-12-2024 00:00,Salesforce
+SFACC5668,Pandey Industries,Manufacturing,Vinod Chopra,Hot,CAMP042,15-08-2025 00:00,Salesforce
+SFACC5708,Kaur Textiles,Healthcare,Sachin Gupta,Warm,CAMP009,18-02-2024 00:00,Salesforce
+SFACC5878,Dubey Foods,Transportation,Sunita Yadav,Cold,CAMP028,11-12-2025 00:00,Salesforce
+SFACC5929,Sharma Services,Manufacturing,Lakshmi Pandey,Hot,CAMP021,03-10-2024 00:00,Salesforce
+SFACC5287,Mehta Finance,Retail,Rekha Kapoor,Warm,CAMP009,09-07-2024 00:00,Salesforce
+SFACC5102,Sharma Finance,Transportation,Jane Patel,Warm,CAMP006,21-03-2025 00:00,Salesforce
+SFACC5368,Yadav Foods,Transportation,Sanjay Tiwari,Warm,CAMP005,14-11-2025 00:00,Salesforce
+SFACC5597,Rao Technologies,Manufacturing,Sanjay Srivastava,Cold,CAMP010,15-01-2026 00:00,Salesforce
+SFACC5320,Sharma Services,Retail,Priya Patil,Hot,CAMP016,16-10-2025 00:00,Salesforce
+SFACC5936,Nair Textiles,Transportation,Kavita Bajaj,Cold,CAMP036,05-01-2025 00:00,Salesforce
+SFACC5354,Rao Industries,Transportation,Divya Agarwal,Hot,CAMP028,14-01-2025 00:00,Salesforce
+SFACC5926,Chopra Technologies,Healthcare,Sunita Singh,Cold,CAMP022,21-07-2025 00:00,Salesforce
+SFACC5307,Srivastava Solutions,Retail,Alok Iyer,Hot,CAMP019,13-09-2025 00:00,Salesforce
+SFACC5673,Nair Consulting,Transportation,Suresh Dubey,Warm,CAMP048,19-08-2024 00:00,Salesforce
+SFACC5105,Banerjee Retail,Manufacturing,Alok Dubey,Hot,CAMP045,26-02-2026 00:00,Salesforce
+SFACC5658,Mishra Traders,Healthcare,Vinod Srivastava,Hot,CAMP015,17-12-2025 00:00,Salesforce
+SFACC5494,Agarwal Pharmaceuticals,Healthcare,Sachin Kaur,Warm,CAMP014,20-09-2024 00:00,Salesforce
+SFACC5384,Rao Textiles,Manufacturing,Ramesh Shah,Warm,CAMP043,28-02-2026 00:00,Salesforce
+SFACC5588,Shah Enterprises,Retail,Seema Mishra,Hot,CAMP025,26-06-2025 00:00,Salesforce
+SFACC5114,Pandey Retail,Manufacturing,Arvind Banerjee,Hot,CAMP049,25-03-2024 00:00,Salesforce
+SFACC5499,Bajaj Enterprises,Transportation,Kavita Patel,Cold,CAMP027,20-07-2025 00:00,Salesforce
+SFACC5006,Malhotra Traders,Healthcare,Sanjay Reddy,Warm,CAMP009,22-01-2026 00:00,Salesforce
+SFACC5774,Patel Enterprises,Technology,Alok Shah,Warm,CAMP048,12-02-2026 00:00,Salesforce
+SFACC5016,Reddy Enterprises,Transportation,Neha Patil,Cold,CAMP028,24-01-2024 00:00,Salesforce
+SFACC5071,Kapoor Industries,Transportation,Vinay Malhotra,Warm,CAMP006,15-10-2025 00:00,Salesforce
+SFACC5519,Gupta Finance,Financial Services,Rohit Agarwal,Hot,CAMP040,07-08-2024 00:00,Salesforce
+SFACC5504,Mehta Services,Financial Services,Ramesh Nair,Hot,CAMP008,13-02-2026 00:00,Salesforce
+SFACC5645,Rao Healthcare,Healthcare,Deepak Patil,Cold,CAMP029,23-04-2024 00:00,Salesforce
+SFACC5074,Reddy Technologies,Manufacturing,Kavita Patel,Cold,CAMP013,26-10-2024 00:00,Salesforce
+SFACC5274,Patel Healthcare,Healthcare,Jane Menon,Warm,CAMP043,17-01-2024 00:00,Salesforce
+SFACC5207,Srivastava Healthcare,Healthcare,Ajay Kapoor,Hot,CAMP042,11-10-2025 00:00,Salesforce
+SFACC5091,Mishra Services,Retail,Harish Banerjee,Cold,CAMP020,06-01-2026 00:00,Salesforce
+SFACC5634,Menon Traders,Manufacturing,Pooja Mehta,Warm,CAMP006,07-12-2025 00:00,Salesforce
+SFACC5742,Patil Pharmaceuticals,Healthcare,Karan Banerjee,Warm,CAMP048,08-05-2024 00:00,Salesforce
+SFACC5008,Pandey Logistics,Retail,Ramesh Chopra,Cold,CAMP041,12-02-2024 00:00,Salesforce
+SFACC5277,Yadav Pharmaceuticals,Retail,Meena Iyer,Warm,CAMP012,25-05-2025 00:00,Salesforce
+SFACC5531,Patel Finance,Retail,Priya Reddy,Hot,CAMP047,03-03-2024 00:00,Salesforce
+SFACC5918,Kumar Consulting,Retail,Alok Agarwal,Hot,CAMP017,22-11-2025 00:00,Salesforce
+SFACC5436,Patel Logistics,Manufacturing,Rohit Agarwal,Cold,CAMP035,18-02-2024 00:00,Salesforce
+SFACC5487,Srivastava Technologies,Retail,Kavita Desai,Warm,CAMP034,27-10-2024 00:00,Salesforce
+SFACC5193,Tiwari Technologies,Technology,Ajay Kaur,Warm,CAMP008,25-11-2024 00:00,Salesforce
+SFACC5234,Tiwari Consulting,Technology,Rahul Agarwal,Cold,CAMP027,29-01-2024 00:00,Salesforce
+SFACC5486,Malhotra Traders,Technology,Arvind Iyer,Cold,CAMP004,03-06-2025 00:00,Salesforce
+SFACC5903,Verma Technologies,Financial Services,Sneha Verma,Hot,CAMP035,14-03-2025 00:00,Salesforce
+SFACC5360,Kapoor Foods,Technology,Alok Rao,Cold,CAMP050,23-09-2025 00:00,Salesforce
+SFACC5079,Agarwal Solutions,Transportation,Manish Kapoor,Cold,CAMP039,21-07-2024 00:00,Salesforce
+SFACC5306,Joshi Healthcare,Transportation,Sachin Dubey,Cold,CAMP001,25-01-2026 00:00,Salesforce
+SFACC5546,Yadav Retail,Financial Services,Prakash Patel,Warm,CAMP039,20-03-2024 00:00,Salesforce
+SFACC5702,Tiwari Industries,Manufacturing,Divya Malhotra,Warm,CAMP018,05-07-2025 00:00,Salesforce
+SFACC5389,Chopra Enterprises,Technology,Deepak Rao,Hot,CAMP041,28-06-2025 00:00,Salesforce
+SFACC5112,Tiwari Traders,Manufacturing,Meera Patil,Warm,CAMP037,05-11-2024 00:00,Salesforce
+SFACC5690,Desai Services,Technology,Manish Patel,Hot,CAMP037,12-12-2024 00:00,Salesforce
+SFACC5261,Nair Pharmaceuticals,Financial Services,Rekha Malhotra,Hot,CAMP049,28-04-2024 00:00,Salesforce
+SFACC5446,Yadav Retail,Financial Services,Jane Singh,Hot,CAMP047,13-07-2025 00:00,Salesforce
+SFACC5283,Sharma Foods,Financial Services,Rohit Pandey,Hot,CAMP041,14-11-2025 00:00,Salesforce
+SFACC5098,Agarwal Retail,Technology,Vinod Malhotra,Hot,CAMP037,15-08-2025 00:00,Salesforce
+SFACC5628,Desai Enterprises,Retail,Meera Shah,Cold,CAMP011,03-01-2026 00:00,Salesforce
+SFACC5391,Desai Healthcare,Manufacturing,Pooja Tiwari,Cold,CAMP025,17-04-2025 00:00,Salesforce
+SFACC5369,Menon Textiles,Healthcare,Rajiv Tiwari,Cold,CAMP023,23-02-2026 00:00,Salesforce
+SFACC5839,Singh Textiles,Retail,Karan Malhotra,Hot,CAMP041,15-04-2025 00:00,Salesforce
+SFACC5099,Agarwal Traders,Manufacturing,Ramesh Reddy,Hot,CAMP009,19-01-2024 00:00,Salesforce
+SFACC5021,Agarwal Consulting,Healthcare,Arjun Mishra,Warm,CAMP010,24-12-2024 00:00,Salesforce
+SFACC5184,Kapoor Industries,Manufacturing,Anjali Shah,Cold,CAMP019,26-05-2025 00:00,Salesforce
+SFACC5864,Iyer Foods,Financial Services,Amit Dubey,Warm,CAMP031,22-02-2026 00:00,Salesforce
+SFACC5358,Kaur Consulting,Manufacturing,Anita Banerjee,Cold,CAMP037,18-01-2026 00:00,Salesforce
+SFACC5248,Verma Services,Manufacturing,Sunita Shah,Cold,CAMP011,04-03-2025 00:00,Salesforce
+SFACC5706,Malhotra Retail,Healthcare,Sneha Banerjee,Cold,CAMP046,02-05-2025 00:00,Salesforce
+SFACC5505,Guptha Logistics,Manufacturing,Harish Srivastava,Cold,CAMP007,17-04-2024 00:00,Salesforce
+SFACC5252,Pandey Enterprises,Manufacturing,Rahul Patel,Warm,CAMP031,16-11-2025 00:00,Salesforce
+SFACC5218,Banerjee Logistics,Technology,Anita Sharma,Cold,CAMP026,11-11-2024 00:00,Salesforce
+SFACC5334,Yadav Retail,Financial Services,Sachin Kapoor,Warm,CAMP001,09-11-2025 00:00,Salesforce
+SFACC5314,Bajaj Logistics,Financial Services,Rekha Tiwari,Hot,CAMP047,26-07-2025 00:00,Salesforce
+SFACC5312,Guptha Services,Healthcare,Priya Malhotra,Cold,CAMP002,26-08-2024 00:00,Salesforce
+SFACC5121,Patil Services,Financial Services,Sneha Mishra,Hot,CAMP020,02-09-2025 00:00,Salesforce
+SFACC5932,Bajaj Enterprises,Manufacturing,Alok Patel,Warm,CAMP034,16-06-2025 00:00,Salesforce
+SFACC5622,Kumar Technologies,Manufacturing,Lakshmi Pandey,Warm,CAMP040,08-11-2024 00:00,Salesforce
+SFACC5258,Malhotra Finance,Retail,Alok Nair,Warm,CAMP001,28-10-2024 00:00,Salesforce
+SFACC5390,Yadav Textiles,Healthcare,Suresh Kumar,Hot,CAMP028,12-11-2025 00:00,Salesforce
+SFACC5684,Desai Traders,Retail,Seema Chopra,Warm,CAMP023,09-12-2025 00:00,Salesforce
